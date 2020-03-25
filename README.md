@@ -1,4 +1,4 @@
-# MilestoneProjectOne
+# User Centric Frontend
 User Centric Frontend Development, Milestone Project 1
 
 A simple 3-page website for a small business (offerings serfices of aerail phtography and filming), aimed at presenting the company, its services, experience/projects, equeipment, as well as provide a way for potential customers to contact the company.
