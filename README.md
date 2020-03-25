@@ -4,7 +4,10 @@ User Centric Frontend Development, Milestone Project 1
 A simple 3-page website for a small business (offerings serfices of aerail phtography and filming), aimed at presenting the company, its services, experience/projects, equeipment, as well as provide a way for potential customers to contact the company.
 
 ## Wireframes
+Balsamiq was used to create wireframes for this proejct.
+PDF and BMPR files are stored at /assets/wireframes.
 
+![Home Page](assets/images/index.png)
 
 ## UX
 
@@ -16,8 +19,8 @@ Existing Features
 Feature 1 - allows users X to achieve Y, by having them fill out Z
 
 ## Technologies Used
-HTML5
-CSS3
+HTML5,
+CSS3,
 Bootstrap
 
 
