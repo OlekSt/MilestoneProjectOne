@@ -7,8 +7,6 @@ A simple 3-page website for a small business (offerings serfices of aerail phtog
 Balsamiq was used to create wireframes for this proejct.
 PDF and BMPR files are stored at /assets/wireframes.
 
-Wireframe screenshots:
-
 <img src="assets/images/index.png" alt="Home Page" style="float: left; margin-rigth: 10px;" width="225"/>
 <img src="assets/images/index-pad.png" alt="Home Page - Pad" style="float: left; margin-rigth: 10px;" width="225"/>
 <img src="assets/images/index-phone.png" alt="Home Page - Phone" style="float: left; margin-rigth: 10px;" width="225"/>
