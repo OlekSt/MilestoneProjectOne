@@ -10,10 +10,14 @@ PDF and BMPR files are stored at /assets/wireframes.
 Wireframe screenshots:
 
 <img src="assets/images/index.png" alt="Home Page" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/images/projects.png" alt="Home Page" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/images/contact.png" alt="Home Page" style="float: left; margin-rigth: 10px;" width="225"/>
-
-
+<img src="assets/images/index-pad.png" alt="Home Page - Pad" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/images/index-phone.png" alt="Home Page - Phone" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/images/projects.png" alt="Projects" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/images/projects-pad.png" alt="Projects - Pad" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/images/projects-phone.png" alt="Proejcts - Phone" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/images/contact.png" alt="Contacct" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/images/contact-pad.png" alt="Contact - Pad" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/images/contact-phone.png" alt="Contact - Phone" style="float: left; margin-rigth: 10px;" width="225"/>
 
 ## UX
 
