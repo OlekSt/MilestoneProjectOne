@@ -1,22 +1,26 @@
 
+body {
+    margin: 5%;
+}
 
 .hero-title {
     color: blue;
 }
 
 #hero-image {
-    height: 600px;
+    height: 450px;
     width: 100%;
-    background: url("/assets/images/hero_image_1.jpg") no-repeat center center;
+    background: url("/assets/images/hero_image_1_edited.jpg") no-repeat center center;
     
     animation: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
-#hero-outer{
-  height: 600px;
-  width: 100%;
-  overflow: hidden;
-  position: relative;
+@media screen and (max-width: 565px) {   
+    #hero-image{
+    	background: url(/assets/images/hero_image_2.jpg) no-repeat;
+        max-height: 200px;
+    } 
 }
+
