@@ -1,20 +1,36 @@
-
+@import url('https://fonts.googleapis.com/css?family=Quantico:Ruda:200,300,400,500,600,700&display=swap');
 body {
     margin: 5%;
+    font-family: "Ruda", sans-serif;
 }
 
+footer {
+    font-family: "Quantico", sans-serif;
+}
 .hero-title {
-    color: blue;
+    color: whitesmoke;
+    position: absolute; 
+    margin: 0px 0px;
+    padding: 0;
+    width: 130px;
+    height: 50px;
+    font-family: "Quantico", sans-serif;
+    font-weight: 400;
+  
+    padding-left: 10px;
+
+     background-color: rgba(38, 15, 170, 0.582);
+
+     top: 10px;
+     left: 10px;
 }
 
 #hero-image {
-    height: 450px;
+    height: 350px;
     width: 100%;
     background: url("/assets/images/hero_image_1_edited.jpg") no-repeat center center;
-    
-    animation: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+    position: relative;
+  
 }
 
 @media screen and (max-width: 565px) {   
