@@ -22,6 +22,10 @@ footer {
     font-family: "Quantico", sans-serif;
 }
 
+.uppercase {
+    text-transform: uppercase; 
+}
+
 /*--- Hero Image + logo ---*/
 
 #hero-title {
@@ -37,7 +41,7 @@ footer {
     padding-left: 22.5px;
     
 
-    background-color: rgba(13, 14, 65, 0.7);
+    background-color: rgba(14, 14, 100, 0.856);
 
     top: 30px;
     left: 50px;
@@ -46,27 +50,27 @@ footer {
 }
 
 #hero-image {
-    height: 550px;
+    height: 570px;
     width: 100%;
     background: url("/assets/images/hero_image_1.jpg") no-repeat center center;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     
-  
+  /*--- The animation code is taken from Love Running tutorial from this course ---*/
     animation: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
 #hero-outer{
-  height: 550px;
+  height: 570px;
   width: 100%;
   overflow: hidden;
   position: relative;
  
 }
-
+/*--- The animation code is taken from Love Running tutorial from this course ---*/
 @keyframes hero-zoom {
   from{
     transform: scale(1);
@@ -118,6 +122,30 @@ h1 a, a:hover {
 
 
 /*--- NAVbar ---*/
+
+#navbar {
+  color: white;
+  
+  padding-top: 40px;
+  padding-left: 10px;
+
+  bottom: 80px;
+  right: 50px;
+
+  position: absolute;
+  background: none;
+}
+
+.menuitem {
+    font-size: 25px;
+}
+
+.menuitem:hover {
+    color: white;
+    background-color: rgba(14, 14, 100, 0.856);
+    border-radius: 40%;
+
+}
 
 /*--- About section ---*/
 
