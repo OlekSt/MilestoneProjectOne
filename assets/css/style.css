@@ -40,9 +40,9 @@ footer {
     padding-top: 25px;
     padding-left: 22.5px;
     
-
-    background-color: rgba(14, 14, 100, 0.856);
-
+    
+    background-color: rgba(32, 32, 102, 0.856);
+    
     top: 30px;
     left: 50px;
 
@@ -50,7 +50,7 @@ footer {
 }
 
 #hero-image {
-    height: 570px;
+    height: 460px;
     width: 100%;
     background: url("/assets/images/hero_image_1.jpg") no-repeat center center;
     margin: 0;
@@ -64,7 +64,7 @@ footer {
 }
 
 #hero-outer{
-  height: 570px;
+  height: 460px;
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -142,10 +142,19 @@ h1 a, a:hover {
 
 .menuitem:hover {
     color: white;
-    background-color: rgba(14, 14, 100, 0.856);
+    background-color: rgba(44, 44, 49, 0.856);
     border-radius: 40%;
-
 }
+
+.navbar-toggler { 
+    border-color: #fff; 
+}
+
+.navbar-toggler-icon { 
+   background-image: url("data:image/svg+xml;..");
+}
+
+
 
 /*--- About section ---*/
 
