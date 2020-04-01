@@ -46,11 +46,13 @@ footer {
 }
 
 #hero-image {
-    height: 600px;
+    height: 550px;
     width: 100%;
-    background: url("/assets/images/hero_image1.jpg") no-repeat center center;
-
-    position: relative;
+    background: url("/assets/images/hero_image_1.jpg") no-repeat center center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
   
     animation: hero-zoom;
     animation-duration: 5s;
@@ -58,10 +60,11 @@ footer {
 }
 
 #hero-outer{
-  height: 600px;
+  height: 550px;
   width: 100%;
   overflow: hidden;
   position: relative;
+ 
 }
 
 @keyframes hero-zoom {
@@ -78,10 +81,10 @@ footer {
 @media screen and (max-width: 565px) {   
     #hero-image{
     	background: url(/assets/images/hero_image_2.jpg) no-repeat;
-        max-height: 200px;
+        max-height: 180px;
     } 
     #hero-outer{
-        max-height: 200px;
+        max-height: 180px;
         width: 100%;
         overflow: hidden;
         position: relative;
