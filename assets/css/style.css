@@ -1,12 +1,11 @@
 /*----  General styles ---*/
+@import url('https://fonts.googleapis.com/css?family=Quantico:Ruda:200,300,400,500,600,700&display=swap');
 
 *{
   margin: 0;
   padding: 0;
   border: 0;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Quantico:Ruda:200,300,400,500,600,700&display=swap');
 
 body {
     font-family: "Ruda", sans-serif;
@@ -87,21 +86,25 @@ footer {
         overflow: hidden;
         position: relative;
     }
-    
+
     #hero-title {
     color: whitesmoke;
-    width: 85px;
-    height: 30px;
+    width: 120px;
+    height: 50px;
     border-radius: 30px;
     font-family: "Quantico", sans-serif;
-    font-weight: 300;
-    font-size: 7px;
+    font-weight: 400;
     
-    padding-top: 25px;
-    padding-left: 22.5px;
-      
-    top: 30px;
-    left: 50px;
+    
+    padding-top: 14px;
+    padding-left: 14px;
+    
+    top: 15px;
+    left: 25px;
+    }
+
+    .logo {
+        font-size: 18px;
     }
 }
 
