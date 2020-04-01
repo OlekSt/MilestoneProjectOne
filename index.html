@@ -4,14 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>STOdrones - Aerial photgraphy & filming services</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    <title>STOdrones - Aerial photgraphy & filming services</title>
 
 </head>
 <body>
     <!--Hero image with LOGO & navigation bar--> 
     
-    <section class="container">
+    <section class="container-fluid">
         <div id="hero-image">
             <div class="hero-title">
                 <h1 class="logo">STOdrones</h1>
@@ -21,33 +23,56 @@
 
     <!--Main section with ABOUT & Services section--> 
     <section class="contatiner">
-        <div class="row body">
-        main section
-            <div class="col-4 about">
-                <h2 class="about-title">ABOUT</h2>
-                <p class="about-text">About the company</p>
-            </div>
-            <div class="col-8 services">
+        <div class="row">
+            <div class="col-lg-4 col-sm-12 about">
                 <div class="row">
-                    <div class="service-image">ServImage1</div>
-                    <div class="service">
-                        <h3 class="service-title">Service Title 1</h3>
-                        <p class="service-description">Service description</p>
+                    <div class="col-12">
+                        <h2 class="about-title">About STOdrones</h2>
+                        <p class="about-text">The company is providing aerial photography and film services. We are fully licensed to operate on the 
+                        territory of the Czech Republic. The license has been granted by the Czech Civil Aviation Authority. </p>
+                    </div>
+                </div>
+            
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="about-title">Equipment</h2>
+                        <p class="about-text">We use Phantom 4 Pro drone for our projects. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8 col-sm-12 services">
+                <div class="row">
+                    <div class="col-4">
+                        <div class="service-image">ServImage1</div>
+                    </div>
+                    <div class="col-8">
+                        <div class="service">
+                            <h3 class="service-title">Service Title 1</h3>
+                            <p class="service-description">Service description</p>
+                        </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="service-image">ServImage2</div>
-                    <div class="service">
-                        <h3 class="service-title">Service Title 2</h3>
-                        <p class="service-description">Service description</p>
+                    <div class="col-4">
+                        <div class="service-image">ServImage2</div>
+                    </div>
+                    <div class="col-8">
+                        <div class="service">
+                            <h3 class="service-title">Service Title 2</h3>
+                            <p class="service-description">Service description</p>
+                        </div>
                     </div>
                 </div>       
                 <div class="row">
-                    div class="service-image">ServImage3</div>
-                    <div class="service">
-                        <h3 class="service-title">Service Title 3</h3>
-                        <p class="service-description">Service description</p>
-                    </div>  
+                    <div class="col-4">
+                        <div class="service-image">ServImage3</div>
+                    </div>
+                    <div class="col-8">
+                        <div class="service">
+                            <h3 class="service-title">Service Title 3</h3>
+                            <p class="service-description">Service description</p>
+                        </div>  
+                    </div>
                 </div>   
             </div>
         
@@ -56,13 +81,16 @@
 
     <!--Footer with licenses section & social media links-->
     <footer>
-        <div class="row">
-            <div class="col-4 license">
+        <div class="row footer">
+            <div class="col-lg-4 col-md-6 col-sm-12 license">
             <a href="#">Link to license</a>
             </div>
-            <div class="col-8 social">
-                <div>Copyright 2020</div>
-                <div class="social">social links</div>
+            <div class="col-lg-4 col-md-6 col-sm-12 copyright">
+                <p>Copyright 2020</p>
+            </div>
+            <div class="col-lg-4 col-md-12 col-sm-12 social">
+                <p>social links</p>
+            </div>
         </div>
     
     </footer>

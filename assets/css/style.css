@@ -1,12 +1,18 @@
+/*----  General styles ---*/
+
 @import url('https://fonts.googleapis.com/css?family=Quantico:Ruda:200,300,400,500,600,700&display=swap');
+
 body {
-    margin: 5%;
+    
     font-family: "Ruda", sans-serif;
 }
 
 footer {
     font-family: "Quantico", sans-serif;
 }
+
+/*--- Hero Image ---*/
+
 .hero-title {
     color: whitesmoke;
     position: absolute; 
@@ -26,10 +32,11 @@ footer {
 }
 
 #hero-image {
-    height: 350px;
+    height: 600px;
     width: 100%;
-    background: url("/assets/images/hero_image_1_edited.jpg") no-repeat center center;
+    background: url("/assets/images/hero_image1.jpg") no-repeat center center;
     position: relative;
+    margin: 0;
   
 }
 
@@ -40,3 +47,25 @@ footer {
     } 
 }
 
+/*--- NAVbar ---*/
+
+/*--- About section ---*/
+
+.about {
+    background-color: blue;
+    padding: 10px 10px;
+    
+}
+
+/*--- Services section ---*/
+
+.services {
+    background-color: greenyellow;
+    padding-left: 15px;
+}
+
+/*--- Footer ---*/
+
+.footer {
+    background-color: orange;
+}
