@@ -1,51 +1,115 @@
 /*----  General styles ---*/
 
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Quantico:Ruda:200,300,400,500,600,700&display=swap');
 
 body {
-    
     font-family: "Ruda", sans-serif;
+    background-color: gainsboro;
+}
+
+.main {
+    background-color: grey;
+    margin: 0;
+    border: 2px black solid;
 }
 
 footer {
     font-family: "Quantico", sans-serif;
 }
 
-/*--- Hero Image ---*/
+/*--- Hero Image + logo ---*/
 
-.hero-title {
+#hero-title {
     color: whitesmoke;
-    position: absolute; 
-    margin: 0px 0px;
-    padding: 0;
-    width: 130px;
-    height: 50px;
+    width: 250px;
+    height: 100px;
+    border-radius: 100px;
     font-family: "Quantico", sans-serif;
     font-weight: 400;
-  
-    padding-left: 10px;
+    align-self: auto;
 
-     background-color: rgba(38, 15, 170, 0.582);
+    padding-top: 25px;
+    padding-left: 22.5px;
+    
 
-     top: 10px;
-     left: 10px;
+    background-color: rgba(13, 14, 65, 0.7);
+
+    top: 30px;
+    left: 50px;
+
+    position: absolute;
 }
 
 #hero-image {
     height: 600px;
     width: 100%;
     background: url("/assets/images/hero_image1.jpg") no-repeat center center;
+
     position: relative;
-    margin: 0;
   
+    animation: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
+
+#hero-outer{
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+@keyframes hero-zoom {
+  from{
+    transform: scale(1);
+  }
+  to{
+    transform: scale(1.1);
+  }
+}
+  
+
 
 @media screen and (max-width: 565px) {   
     #hero-image{
     	background: url(/assets/images/hero_image_2.jpg) no-repeat;
         max-height: 200px;
     } 
+    #hero-outer{
+        max-height: 200px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+    }
+    
+    #hero-title {
+    color: whitesmoke;
+    width: 85px;
+    height: 30px;
+    border-radius: 30px;
+    font-family: "Quantico", sans-serif;
+    font-weight: 300;
+    font-size: 7px;
+    
+    padding-top: 25px;
+    padding-left: 22.5px;
+      
+    top: 30px;
+    left: 50px;
+    }
 }
+
+h1 a, a:hover {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
 
 /*--- NAVbar ---*/
 
