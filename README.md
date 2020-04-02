@@ -48,3 +48,4 @@ All the photos used for the website were taken by me, Alexey Statsenko
 1. Idea about the central part of the website 1/3 & 2/3 taken from the "First CV" tutorial of the course. 
 2. Idea about the hero image + animation, plus some code is from the Love Running tutorial of this course. 
 3. Navbar code is taken from Bootstrap.
+4. Idea for footer split into three parts, and social links animation idea + partly code taken from  "First CV" tutorial of the course. 

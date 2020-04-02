@@ -1,15 +1,10 @@
 /*----  General styles ---*/
 @import url('https://fonts.googleapis.com/css?family=Quantico:Ruda:200,300,400,500,600,700&display=swap');
 
-*{
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
+
 
 body {
     font-family: "Ruda", sans-serif;
-    background-color: gainsboro;
 }
 
 .main {
@@ -116,11 +111,11 @@ footer {
     }
 }
 
+
 h1 a, a:hover {
     text-decoration: none;
     color: whitesmoke;
 }
-
 
 /*--- NAVbar ---*/
 
@@ -146,8 +141,6 @@ h1 a, a:hover {
     text-align: center;
 }
 
-
-
 .menuitem:hover i {
     font-size: 30px;
 }
@@ -155,17 +148,46 @@ h1 a, a:hover {
 /*--- About section ---*/
 
 .about {
-    background-color: blue;
-    padding: 10px 10px;
+    padding-left: 5%;
+    padding-top: 30px;
     
 }
 
 /*--- Services section ---*/
 
 .services {
-    background-color: greenyellow;
-    padding-left: 15px;
+    padding: 15px;
 }
+
+.service {
+    padding: 10px;
+}
+
+
+.service, 
+.service-image {
+    margin: 10px 0;/* 
+    background: #f4f4f4; */
+}
+
+.services p {
+    text-align: justify;
+    padding-right: 20px;
+}
+
+
+/*--- Services section - Images ---*/
+
+.service-image {
+    padding: 2px;
+    border: rgb(172, 172, 172) 0.2px solid; 
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
 
 /*--- Footer ---*/
 
@@ -207,11 +229,11 @@ h1 a, a:hover {
 }
 
 .social li a i {
-    height: 44px;
-    width: 44px;
+    height: 46px;
+    width: 46px;
     border-radius: 30%;
     font-size: 40px;
-    padding-top: 2px;
+    padding-top: 3px;
     text-align: center;
     color: rgba(32, 32, 102, 0.856);
     
@@ -219,7 +241,7 @@ h1 a, a:hover {
 
 
 .social li a i:hover {
-    background: rgba(44, 44, 49, 0.856);
+    background: rgba(32, 32, 102, 0.856);
     color: white;
     
 }
