@@ -19,7 +19,8 @@ body {
 }
 
 footer {
-    font-family: "Quantico", sans-serif;
+    font-family: "Ruda", sans-serif;
+    background-color: #f4f4f4; 
 }
 
 .uppercase {
@@ -123,6 +124,10 @@ h1 a, a:hover {
 
 /*--- NAVbar ---*/
 
+.navbar {
+    color: white;
+}
+
 #navbar {
   color: white;
   
@@ -141,19 +146,13 @@ h1 a, a:hover {
 }
 
 .menuitem:hover {
-    color: white;
     background-color: rgba(44, 44, 49, 0.856);
     border-radius: 40%;
 }
 
-.navbar-toggler { 
-    border-color: #fff; 
-}
-
-.navbar-toggler-icon { 
-   background-image: url("data:image/svg+xml;..");
-}
-
+.navbar.navbar-toggler.navbar-toggler-icon { 
+            border-color: lightgreen; 
+} 
 
 
 /*--- About section ---*/
@@ -173,6 +172,35 @@ h1 a, a:hover {
 
 /*--- Footer ---*/
 
-.footer {
-    background-color: orange;
+.copyright {
+    font-family: "Quantico", sans-serif;
+    font-size: 10px;
+    letter-spacing: 2px;
+    padding-top: 10px;
+    padding-left: 40px;
+    background-color: #eeecec;
+}
+
+.social {
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 25px;
+}
+
+.social li a i {
+    height: 44px;
+    width: 44px;
+    border-radius: 30%;
+    font-size: 40px;
+    padding-top: 2px;
+    text-align: center;
+    color: rgba(32, 32, 102, 0.856);
+    
+}
+
+
+.social li a i:hover {
+    background: rgba(32, 32, 102, 0.856);
+    color: white;
+
 }
