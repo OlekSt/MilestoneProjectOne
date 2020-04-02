@@ -37,7 +37,8 @@ footer {
     padding-left: 22.5px;
     
     
-    background-color: rgba(32, 32, 102, 0.856);
+    background-color: rgba(32, 32, 102, 0.6);
+
     
     top: 30px;
     left: 50px;
@@ -149,14 +150,21 @@ h1 a, a:hover {
 
 .about {
     padding-left: 5%;
-    padding-top: 30px;
+    padding-top: 20px;
+    border: grey 0.2px sold;
     
+}
+
+.about p {
+    text-align: justify;
+    padding-right: 15px;
 }
 
 /*--- Services section ---*/
 
 .services {
-    padding: 15px;
+    padding-left: 50px;
+    padding-top: 30px;
 }
 
 .service {
