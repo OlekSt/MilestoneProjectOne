@@ -172,6 +172,28 @@ h1 a, a:hover {
 
 /*--- Footer ---*/
 
+.license {
+    padding: 15px 20px 10px;
+    text-align: center;
+    
+}
+
+.license p {
+    font-size: 12px;
+}
+
+.license a {
+    color: rgba(32, 32, 102, 0.856);
+    text-transform: uppercase;
+}
+
+.license a:hover {    
+    background: rgba(32, 32, 102, 0.856);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 .copyright {
     font-family: "Quantico", sans-serif;
     font-size: 10px;
@@ -204,3 +226,5 @@ h1 a, a:hover {
     color: white;
 
 }
+
+
