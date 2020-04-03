@@ -206,9 +206,11 @@ h1 a, a:hover {
 
 .service, 
 .service-image {
-    margin: 10px 0;/* 
+    margin: 5px 0;/* 
     background: #f4f4f4; */
 }
+
+
 
 .services p {
     text-align: justify;
