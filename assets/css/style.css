@@ -119,6 +119,19 @@ h1 a, a:hover {
 
 /*--- NAVbar ---*/
 
+#navbar-main {
+  color: white;
+  
+  padding-top: 40px;
+  padding-left: 10px;
+  
+  bottom: 80px;
+  right: 50px;
+
+  position: absolute;
+  background: none;
+}
+
 #navbar {
   color: white;
   
@@ -154,7 +167,7 @@ h1 a, a:hover {
     font-size: 13px;
     }
 
-    #navbar {
+    #navbar, #navbar-main {
     display: block;
 
     bottom: 150px;
