@@ -178,6 +178,20 @@ h1 a, a:hover {
     }
 }
 
+/*-- Headings, titles, section titles --*/
+
+.about-title, 
+.gallery-title,
+.projects-title {
+    text-align: center;
+    color: rgba(32, 32, 102, 0.9);
+}
+
+.gallery-title,
+.projects-title {
+    letter-spacing: 8px;
+    padding: 30px 0;
+}
 
 /*--- About section ---*/
 
@@ -241,6 +255,37 @@ h1 a, a:hover {
   height: auto;
 }
 
+/*-- Projects -- */
+
+.projects {
+  background: #fcfcfc;
+  border-bottom: rgb(226, 226, 226) 0.1px solid;
+}
+
+/*--- Gallery ---*/
+
+#photo{
+   clear: both;
+   line-height: 0;
+   column-count: 4;
+   column-gap: 0;
+ }
+
+ #photo img{
+   width: 100%;
+   padding: 2px;
+   border: grey 0.2px sold;
+ }
+
+ @media screen and (max-width: 943px){
+    #photo{
+        column-count: 3;
+}
+
+@media screen and (max-width: 650px){
+    #photo{
+        column-count: 2;
+   }
 
 /*--- Footer ---*/
 
@@ -293,12 +338,5 @@ h1 a, a:hover {
 .social li a i:hover {
     background: rgba(32, 32, 102, 0.856);
     color: white;
-}
-
-/*--- Gallery ---*/
-
-.carousel-inner {
-    padding: 2px;
-    border: rgb(172, 172, 172) 0.2px solid; 
 }
 
