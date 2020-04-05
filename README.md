@@ -8,14 +8,14 @@ Balsamiq was used to create wireframes for this proejct.
 PDF and BMPR files are stored at /assets/wireframes.
 
 <img src="assets/wireframes/thumbnails/index.png" alt="Home Page" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/wireframes/thumbnails/index-pad.png" alt="Home Page - Pad" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/wireframes/thumbnails/index-phone.png" alt="Home Page - Phone" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/wireframes/thumbnails/index-pad.png" alt="Home Page - Pad" style="float: left; margin-rigth: 10px;" width="175"/>
+<img src="assets/wireframes/thumbnails/index-phone.png" alt="Home Page - Phone" style="float: left; margin-rigth: 10px;" width="140"/>
 <img src="assets/wireframes/thumbnails/projects.png" alt="Projects" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/wireframes/thumbnails/projects-pad.png" alt="Projects - Pad" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/wireframes/thumbnails/projects-phone.png" alt="Proejcts - Phone" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/wireframes/thumbnails/projects-pad.png" alt="Projects - Pad" style="float: left; margin-rigth: 10px;" width="175"/>
+<img src="assets/wireframes/thumbnails/projects-phone.png" alt="Proejcts - Phone" style="float: left; margin-rigth: 10px;" width="140"/>
 <img src="assets/wireframes/thumbnails/contact.png" alt="Contacct" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/wireframes/thumbnails/contact-pad.png" alt="Contact - Pad" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/wireframes/thumbnails/contact-phone.png" alt="Contact - Phone" style="float: left; margin-rigth: 10px;" width="225"/>
+<img src="assets/wireframes/thumbnails/contact-pad.png" alt="Contact - Pad" style="float: left; margin-rigth: 10px;" width="175"/>
+<img src="assets/wireframes/thumbnails/contact-phone.png" alt="Contact - Phone" style="float: left; margin-rigth: 10px;" width="140"/>
 
 ## UX
 
