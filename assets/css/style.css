@@ -368,8 +368,23 @@ h1 a, a:hover {
 
 /*--- Address + Map ---*/
 
-.address{
-    background-color:  #f5f5f5;
+.address {
+    padding-left: 20px;
+}
+
+.address h3 {
+    text-align: center;
+    color: rgba(32, 32, 102, 0.9);
+    padding-top: 30px;
+}
+
+.address p {
+    text-align: center;
+}
+
+#map {
+    padding: 2px;
+    border: grey 0.2px solid;
 }
 
 #map iframe {
@@ -377,7 +392,12 @@ h1 a, a:hover {
         height: 100%;
 }
 
+
+
 /*--- Contact Form ---*/
+
+
+
 
 .contact-form {
     border-radius: 5px;
@@ -385,14 +405,18 @@ h1 a, a:hover {
     padding: 20px;
 }
 
+.contact-form p {
+    text-align: center;
+}
+
 input[type=text], select, textarea {
-    width: 100%; /* Full width */
-    padding: 10px; /* Some padding */ 
-    border: 1px solid #ccc; /* Gray border */
-    border-radius: 4px; /* Rounded borders */
-    box-sizing: border-box; /* Make sure that padding and width stays in place */
-    margin-top: 6px; /* Add a top margin */
-    margin-bottom: 6px; /* Bottom margin */
+    width: 100%; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 3px; 
+    margin-bottom: 16px; 
     margin-left: 2px;
     resize: vertical;
 }

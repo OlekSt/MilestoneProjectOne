@@ -56,7 +56,7 @@
         <div class="row">
 <!--Address + Map -->                 
             <div class="col-lg-4 col-sm-12 address">
-                <h3>You can find us here:</h3>
+                <h3 class="uppercase">You can find us here:</h3>
                 <p>Husitska 38</p>
                 <p>Prague 3, 130 00</p>
                 <p>Czech Republic</p>
@@ -67,7 +67,9 @@
             </div>
 <!--Contact form-->
             <div class="col-lg-8 col-sm-12 contact-form contact-section">
-                <h2 class="contact-title uppercase">Contact Form</h2>
+                <h2 class="contact-title uppercase">Contact Us</h2>
+                <p>You have a question or suggestion, would like a quotation or discuss cooperation,</p>
+                <p>we will be happy to hear from you!</p>
                 
                 <form action="/action_page.php">
                     <label for="fname">First Name</label>
@@ -75,9 +77,12 @@
 
                     <label for="lname">Last Name</label>
                     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
+                    
                     <label for="subject">Subject</label>
-                    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+                    <input type="text" id="subject" name="subject" placeholder="Subject..">
+
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
 
                     <input type="submit" value="Submit">
                 </form>
