@@ -81,7 +81,7 @@ body {
 
 @media screen and (max-width: 565px) {   
     #hero-image{
-    	background: url(/assets/images/hero_image_2.jpg) no-repeat;
+    	background: url("../images/hero_image_2.jpg") no-repeat;
         max-height: 180px;
     } 
     #hero-outer{
