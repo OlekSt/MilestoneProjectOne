@@ -52,16 +52,34 @@
     </header>
 
 
-        <section class="contatiner">
-            <div class="row">
+    <section class="contatiner-fluid ">
+        <div class="row">
 <!--Address + Map -->                 
-
-<!--Contact form-->
-                <div class="col-lg-8 col-sm-12 services">
-                </div>
-            
+            <div class="col-lg-4 col-sm-12 address">
+                <p>jsddfDFSDFsdfasdf       jsddfDFSDFsdfasdf         jsddfDFSDFsdfasdf         jsddfDFSDFsdfasdf
+                <p>jsddfDFSDFsdfasdf</p>
+                <p>jsddfDFSDFsdfasdf</p>
             </div>
-        </section>
+<!--Contact form-->
+            <div class="col-lg-8 col-sm-12 contact-form contact-section">
+                <h2 class="contact-title uppercase">Contact Form</h2>
+                
+                <form action="/action_page.php">
+                    <label for="fname">First Name</label>
+                    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+                    <label for="lname">Last Name</label>
+                    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+                    <label for="subject">Subject</label>
+                    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+                    <input type="submit" value="Submit">
+                </form>
+                
+            </div>
+        </div>
+    </section>
     
     <!--Footer with license info, copyrights, & social media links-->
     <footer>
