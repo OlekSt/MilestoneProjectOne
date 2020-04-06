@@ -102,4 +102,5 @@ All the photos used for the website were taken by me, Alexey Statsenko
 2. Idea about the hero image + animation, plus some code is from the Love Running tutorial of this course. 
 3. Navbar code is taken from Bootstrap.
 4. Idea for footer split into three parts, and social links animation idea + partly code taken from  "First CV" tutorial of the course. 
-5. 
+5. Text about the historical/tourist landmarks are partly taken from websites of the respective points of interest. 
+6. Contact form code is taken from w3schools website. 
