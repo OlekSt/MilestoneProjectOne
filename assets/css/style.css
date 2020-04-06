@@ -28,6 +28,12 @@ a, a:hover{
     color: rgba(58, 58, 204, 1);
 }
 
+#h5 {
+    text-align: center;
+    color:  #201766;
+    margin-bottom: 15px;
+}
+
 
 /*--- Hero Image + logo ---*/
 
@@ -186,7 +192,6 @@ header a:hover {
 }
 
 
-
 /*-- Headings, titles, section titles --*/
 
 .about-title, 
@@ -332,9 +337,9 @@ header a:hover {
   border-bottom: rgb(226, 226, 226) 0.1px solid;
 }
 
-.projects h4 {
+.projects h5 {
     text-align: center;
-    color: rgba(32, 32, 102, 0.9);
+    color: #201766;
 }
 .project {
     margin-bottom: 5px;
@@ -382,13 +387,16 @@ header a:hover {
 
 .gallery h5 {
     text-align: center;
+    color:  #201766;
 }
 
 /*--- Address + Map ---*/
 
 .address {
-    padding-left: 20px;
-    margin-bottom: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    align-content: center;
+    display: inline-block;
 }
 
 .address h3, 
@@ -411,25 +419,24 @@ header a:hover {
 #map {
     padding: 2px;
     border: grey 0.2px solid;
-    margin-top: 10px;
+    margin: 20px 5px;
+    align-content: center;
 }
 
 #map iframe {
-        width: 100%;
-        height: 100%;
+    width: 100%;
+    height: 100%;
 }
 
 
 
 /*--- Contact Form ---*/
 
-
-
-
 .contact-form {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
+    margin: 20px;
 }
 
 .contact-form p {
@@ -449,7 +456,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: rgba(1, 1, 80, 0.637);
+  background-color:#201766;
   padding: 12px 30px;
   margin-left: 30px;
   border: none;
