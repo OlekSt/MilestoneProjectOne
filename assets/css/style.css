@@ -49,7 +49,7 @@ a, a:hover{
     padding-top: 25px;
     padding-left: 22.5px;
     
-    background-color: rgba(32, 32, 102, 0.6);
+    background-color: rgba(32, 23, 102, 0.7);
     
     top: 30px;
     left: 50px;
@@ -302,7 +302,7 @@ header a:hover {
 
 .copyright {
     font-family: "Quantico", sans-serif;
-    font-size: 10px;
+    font-size: 13px;
     letter-spacing: 2px;
     padding-top: 10px;
     padding-left: 40px;
@@ -375,15 +375,17 @@ header a:hover {
    
  }
 
- @media screen and (max-width: 943px){
+@media screen and (max-width: 943px){
     #photo{
         column-count: 3;
+    }
 }
 
 @media screen and (max-width: 650px){
     #photo{
         column-count: 2;
    }
+}
 
 .gallery h5 {
     text-align: center;
@@ -393,10 +395,9 @@ header a:hover {
 /*--- Address + Map ---*/
 
 .address {
-    padding-left: 10px;
-    margin-left: 10px;
     align-content: center;
     display: inline-block;
+    background-color: #f5f5f5
 }
 
 .address h3, 
@@ -434,9 +435,12 @@ header a:hover {
 
 .contact-form {
     border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
-    margin: 20px;
+    padding: 10px 20px;
+    background: #fcfcfc;
+}
+
+.contact-title {
+    padding-top: 10px;
 }
 
 .contact-form p {
@@ -445,23 +449,26 @@ header a:hover {
 
 input[type=text], select, textarea {
     width: 100%; 
-    padding: 10px; 
+    align-content: center;
+    padding: 5px; 
     border: 1px solid #ccc; 
     border-radius: 4px; 
     box-sizing: border-box; 
-    margin-top: 3px; 
-    margin-bottom: 16px; 
+    
+    margin-bottom: 12px; 
     margin-left: 2px;
     resize: vertical;
+    font-size: 13px;
 }
 
 input[type=submit] {
   background-color:#201766;
   padding: 12px 30px;
-  margin-left: 30px;
+  margin-left: 50px;
+  margin-bottom: 20px;
   border: none;
   border-radius: 7px;
   cursor: pointer;
   color: white;
-  font-size: 20px;
+  font-size: 18px;
 }

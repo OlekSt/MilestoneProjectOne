@@ -1,8 +1,8 @@
 # User Centric Frontend Project
-***
 
-## Compny website showcasing services, projects, photo gallery
-***
+ Copyright 2020. STOdrones Copyright 2020. STOdrones Copyright 2020. STOdrones           
+## Aerial photo/video services company website, showcasing services, projects, photo gallery
+
 [Github Pages link](https://olekst.github.io/User-Centric-Frontend-Milestone-Project-1/)
 
 The project is a website for a company prodving services in aerial photography & filming on the terrtory of the Czech Republic. 
