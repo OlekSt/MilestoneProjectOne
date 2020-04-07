@@ -107,6 +107,8 @@ a, a:hover{
     #hero-image{
     	background: url("../images/hero_image_big.jpg") no-repeat;
         max-height: auto;
+        height: 600px;
+        width: 100%;
     }
     
 }
