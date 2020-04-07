@@ -102,15 +102,13 @@ a, a:hover{
   }
 }
 
-<<<<<<< HEAD
-/*-- Hero image animation for desktop view --*/
-=======
->>>>>>> contact
+/*-- Hero image for desktop view --*/
 @media screen and (min-width: 1300px) {   
     #hero-image{
     	background: url("../images/hero_image_big.jpg") no-repeat;
         max-height: auto;
     }
+    
 }
 
 /*-- Hero image animation for mobile view --*/
@@ -127,18 +125,18 @@ a, a:hover{
     }
 
     #hero-title {
-    color: whitesmoke;
-    width: 120px;
-    height: 50px;
-    border-radius: 30px;
-    font-family: "Quantico", sans-serif;
-    font-weight: 400;
-    
-    padding-top: 14px;
-    padding-left: 14px;
-    
-    top: 15px;
-    left: 25px;
+        color: whitesmoke;
+        width: 120px;
+        height: 50px;
+        border-radius: 30px;
+        font-family: "Quantico", sans-serif;
+        font-weight: 400;
+        
+        padding-top: 14px;
+        padding-left: 14px;
+        
+        top: 15px;
+        left: 25px;
     }
 
     .logo {
@@ -490,7 +488,7 @@ header a:hover {
     text-align: center;
 }
 
-input[type=text], select, textarea {
+input[type="text"], input[type="email"], select, textarea {
     width: 100%; 
     -ms-flex-line-pack: center; 
         align-content: center;
