@@ -28,11 +28,7 @@ a, a:hover{
     color: rgba(58, 58, 204, 1);
 }
 
-#h5 {
-    text-align: center;
-    color:  #201766;
-    margin-bottom: 15px;
-}
+
 
 
 /*--- Hero Image + logo ---*/
@@ -311,7 +307,7 @@ header a:hover {
 
 .social {
     text-align: center;
-    padding-top: 18px;
+    padding-top: 25px;
     padding-bottom: 15px;
 }
 
@@ -361,6 +357,12 @@ header a:hover {
 }
 
 /*--- Gallery ---*/
+
+#gallery-subtitle {
+    text-align: center;
+    color:  #201766;
+    margin-bottom: 15px;
+}
 
 #photo {
    clear: both;
