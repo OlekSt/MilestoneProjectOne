@@ -104,11 +104,13 @@ a, a:hover{
   }
 }
 
-@media screen and (min-width: 820px) {   
+/*-- Hero image animation for desktop view --*/
+@media screen and (min-width: 1300px) {   
     #hero-image{
     	background: url("../images/hero_image_big.jpg") no-repeat;
         max-height: auto;
     }
+}
 
 /*-- Hero image animation for mobile view --*/
 
