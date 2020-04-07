@@ -108,10 +108,52 @@ The contact page contains the responsive hero image with the menu, address of th
 
 
 ## Testing
-***
+
+The validity of the code and potential errors were checked for both HTML and CSS using the following validators:
+
+[W3C CSS Validation](https://jigsaw.w3.org/css-validator/) 
+
+[W3C Markup Validation](https://validator.w3.org/)
+
+The responsivenes of the website for various screen sizes was tested via this website: 
+
+[Am I responsive](http://ami.responsivedesign.is/). Though it tests for various Apple devices, it gave a solid idea whether the website is responsive. 
+
+1. Desktop
+
+Google Chrome, Internet Edge; all pages, links on those pages, and footer icon links perform well on all viewport sizes. Developer tools were also used on all browsers for the various viewport sizes.
+
+2. Mobile
+
+Used my Samsung A7 to test; all pages, links, icons performed well on all devices using  Chrome.
+
+3. Contact Form
+    * The contact form is not connected to any 
+
 
 ## Deployment
-***
+
+[GitHub Pages Website](https://olekst.github.io/User-Centric-Frontend-Milestone-Project-1/)
+
+Gitpod was used to code this project. It was then committed and pushed to Github using the command line and deployed on GitHub pages from the repository.
+
+In order to deploy the site, firstly I logged into GitHub Pages. Following this I chose OlekSt/User-Centric-Frontend-Milestone-Project-1 and then clicked on ‘Settings’. I then scrolled down to ‘Github Pages’ and changed the ‘Source’ to ‘master branch’. From this, the page automatically refreshed and I scrolled up and found the link to the deployed website. 
+
+### Running the project locally
+
+In order to clone this project, it is necessary to follow these steps:
+
+1. Go to the [Project Repository](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1).
+2. Click 'Clone or Download'.
+3. In the Clone with HTTPs section, click he clone URL for the repository.
+4. Open the Terminal and change the working directory to the location where you want the cloned directory to be made.
+5. Type git clone, and then paste the URL you copied in Step 2.
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+6. Press Enter.
+
+These instructions were taken from the following link: [Cloning a Repository](https://help.github.com/en/articles/cloning-a-repository).
 
 
 ## Credits
@@ -144,4 +186,4 @@ Content is mainly written by Alexey Statsenko.
 
 Special thanks to: 
 * My mentor, Adegbenga Adeye, for advice and help with planning and creating the website. 
-* Richard Wells (Jedi in training) for peer code review, and help with solving some css/hmtl issues. 
+* Richard Wells (Jedi in training) for informative posts on slack forums, and his peer code review, and help with solving some css/hmtl issues. 
