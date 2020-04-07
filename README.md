@@ -35,12 +35,22 @@ The customer goals of this website are:
 Balsamiq wireframes software was used to create wireframes for this proejct.
 PDF and BMPR files are stored at /assets/wireframes.
 
-<img src="assets/wireframes/thumbnails/index.png" alt="Home Page" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/wireframes/thumbnails/index_pad.png" alt="Home Page - Pad" style="float: left; margin-rigth: 10px;" width="175"/>
-<img src="assets/wireframes/thumbnails/index_phone.png" alt="Home Page - Phone" style="float: left; margin-rigth: 10px;" width="140"/>
+<table>
+    <tr>
+        <td><img src="assets/wireframes/thumbnails/index.png" alt="Home Page" style="float: left; margin-rigth: 10px;" width="250"/></td>
+        <td><img src="assets/wireframes/thumbnails/index_pad.png" alt="Home Page - Pad" style="float: left; margin-rigth: 10px;" width="175"/></td>
+        <td><img src="assets/wireframes/thumbnails/index_phone.png" alt="Home Page - Phone" style="float: left; margin-rigth: 10px;" width="120"/></td>
+    </tr>
+</table>
 
-You can see all the wireframes (Computer-, Pad-, phone-view) in the [wireframes folder](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/tree/master/assets/wireframes/thumbnails)
-
+You can see all the other wireframes here:
+ (Computer-, Pad-, phone-view) in the [wireframes folder](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/tree/master/assets/wireframes/thumbnails)
+[Projects Page](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/projects.png)
+[Projects-Pad](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/projects_pad.png)
+[Projects-Phone](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/projects_phone.png)
+[Contact Page](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/contact.png)
+[Contact-Pad](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/contact_pad.png)
+[Contact-Phone](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/contact_phone.png)
 
 ## UX & User Stories
 
