@@ -36,8 +36,8 @@ Balsamiq wireframes software was used to create wireframes for this proejct.
 PDF and BMPR files are stored at /assets/wireframes.
 
 <img src="assets/wireframes/thumbnails/index.png" alt="Home Page" style="float: left; margin-rigth: 10px;" width="225"/>
-<img src="assets/wireframes/thumbnails/index-pad.png" alt="Home Page - Pad" style="float: left; margin-rigth: 10px;" width="175"/>
-<img src="assets/wireframes/thumbnails/index-phone.png" alt="Home Page - Phone" style="float: left; margin-rigth: 10px;" width="140"/>
+<img src="assets/wireframes/thumbnails/index_pad.png" alt="Home Page - Pad" style="float: left; margin-rigth: 10px;" width="175"/>
+<img src="assets/wireframes/thumbnails/index_phone.png" alt="Home Page - Phone" style="float: left; margin-rigth: 10px;" width="140"/>
 
 You can see all the wireframes (Computer-, Pad-, phone-view) in the [wireframes folder](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/tree/master/assets/wireframes/thumbnails)
 
