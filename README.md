@@ -142,36 +142,45 @@ Used my Samsung A7 to test; all pages, links, icons performed well on all device
 ## Testing client stories from UX section of README.md 
 
 1. As a potential client I can immediately see the appealing view of the Charles bridge, so i can immeditely fell how aerial images can impress people by being taken from very unusual viewpoints. 
-* The landing page immediately provides the client with an appealing view, and all the necessery menu items to navigate, as well as About and Services section.
-* A link for Projects page, containing pictures and info of implmented projects, and photo gallery, is located right at the hero image for easy access to those sections. The link has an attention grabing icon. 
+    * The landing page immediately provides the client with an appealing view, and all the necessery menu items to navigate, as well as About and Services section.
+    * A link for Projects page, containing pictures and info of implmented projects, and photo gallery, is located right at the hero image for easy access to those sections. The link has an attention grabing icon. 
 
 2. As a potential client, I have easy access to the company's description, services, and used equipment. 
-* A call to action is located right under the Services' description, and takes a visitor to Porjects page. 
-* A brief description of the company is placed right under the hero image, straight line down from the main logo. It gives a quick introduction of the company to visitors pressed for time. 
+    * A call to action is located right under the Services' description, and takes a visitor to Porjects page. 
+    * A brief description of the company is placed right under the hero image, straight line down from the main logo. It gives a quick introduction of the company to visitors pressed for time. 
 
 3. As a new visitor to the site, I can easily and intuitively navigate between the pages, so I don’t waste time searching for things.
-* Call to Action buttons are placed in a logical sequence: Under Services to take visitors to Projects and Gallery; between Projects and Gallery to take people to Address and Contact; under the map in Address area to take visitors back to Projects and Gallery. 
-* The Navigation bar is in a clear font at the bottom right corner of the hero image, on dark background.  It converts into a vertical menu in mobile view, placed on dark background of the right side of the hero image, so it is very intuitive to use. The icons are responsive, changing size when mouse moves over, so a visitor know right away, which link is active.
-* According to convention, the logo links back to the Home Page. 
+    * Call to Action buttons are placed in a logical sequence: Under Services to take visitors to Projects and Gallery; between Projects and Gallery to take people to Address and Contact; under the map in Address area to take visitors back to Projects and Gallery. 
+    * The Navigation bar is in a clear font at the bottom right corner of the hero image, on dark background.  It converts into a vertical menu in mobile view, placed on dark background of the right side of the hero image, so it is very intuitive to use. The icons are responsive, changing size when mouse moves over, so a visitor know right away, which link is active.
+    * According to convention, the logo links back to the Home Page. 
  
 
 4. As a potential client, I have easy access to the company's photo, so i can get a good idea of quality and level of expereince. 
-* There is easy and intuitive navigation that leads to Projects and Gallery from the Home page. 
-* There are pictures on all of the pages of the website. 
-* The appealing hero image grabs attention and invites visitors to explore more. 
+    * There is easy and intuitive navigation that leads to Projects and Gallery from the Home page. 
+    * There are pictures on all of the pages of the website. 
+    * The appealing hero image grabs attention and invites visitors to explore more. 
 
 5. As a potential client, I am able to access her social media (Instagram, Facebook, LinkedIn), so that I can do further research and keep up-to-date with current projects.
-* There is a footer on each page that navigates to both Instagram, Facebook and LinkedIn pages of the company. 
+    * There is a footer on each page that navigates to both Instagram, Facebook and LinkedIn pages of the company. 
 
 6. If i need, I have immediate access to the valid license from the Aviatino Authority.
-* There is a link in the footer on each page, where i can see the license fro the Civil Aviation Authority, its validity and other details. 
+    * There is a link in the footer on each page, where i can see the license fro the Civil Aviation Authority, its validity and other details. 
 
 7. As a potential client, I can see what kind of projects the company implemented.
-* There is a list of projects with pictures, objectives, and descriptions.
-* These are complimented by a gallery of best shots to showcase the high artistic quality and provide idea about the level of experience of the company. 
+    * There is a list of projects with pictures, objectives, and descriptions.
+    * These are complimented by a gallery of best shots to showcase the high artistic quality and provide idea about the level of experience of the company. 
 
 8. As a potential client and a business, the overall layout of the website enables me to visualise how  photographs can be used for a great visual aid to sell real estate, advertise a historical building, promote a tourist destination, or do an aerial inspection of a power station. 
-* 
+    * Minmum number of other colors (logo, menu, buttons, links, social media icons, etc) were chosen on purpose not to distract attention from the photos. Soft, subdued colors were chosen to create section sepration and visual balance. The color for log was chosen based on the colors of the river on the hero image. Then matching colors' pallete was created to play together.
+    * Overall design was done on the basis of thirds, both horizontal and vertical: horizontally the Home page, for example, has three horizontal section: 1.hero image, 2. main section (About + Serices), 3.footer. Vertically, the hero image covers the whole width, the main section is split into 1/3 and 2/3, and the footer into 3 parts. This additionally creates a diagonal line going from the Logo to the bottom-right corner of the website. 
+    * Minimum number of other items were added to the page, in order to keep main focus on the photos, and supporting texts. 
+ 
+8. As a potential client and a business with time constraints, I can use the contact form quickly and intuitively to contact the company. 
+    * It is easy to navigate to the Contact Form via the navigation menu. 
+    * There are only 4 required fields on the contact form, and so the User Experience is fast and does not require too much typing.
+    * The form follows an intuitive and conventional layout (Name, Surname, email address, subject and message). 
+
+
 
 
 ## Deployment

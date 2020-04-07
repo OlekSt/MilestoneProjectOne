@@ -105,7 +105,6 @@ a, a:hover{
 @media screen and (min-width: 1300px) {   
     #hero-image{
     	background: url("../images/hero_image_big.jpg") no-repeat;
-        max-height: auto;
         height: 600px;
         width: 100%;
     }
@@ -538,4 +537,8 @@ input[type=submit] {
 
 .button-center {
     text-align: center;
+}
+
+.action-button:hover {
+    color: white;
 }
