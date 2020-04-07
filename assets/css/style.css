@@ -103,7 +103,12 @@ a, a:hover{
             transform: scale(1.1);
   }
 }
-  
+
+@media screen and (min-width: 820px) {   
+    #hero-image{
+    	background: url("../images/hero_image_big.jpg") no-repeat;
+        max-height: auto;
+    }
 
 /*-- Hero image animation for mobile view --*/
 
