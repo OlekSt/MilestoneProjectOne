@@ -45,12 +45,12 @@ PDF and BMPR files are stored at /assets/wireframes.
 
 You can see all the other wireframes here:
 
-* [Projects Page](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/projects.png)
-* [Projects-Pad](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/projects_pad.png)
-* [Projects-Phone](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/projects_phone.png)
-* [Contact Page](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/contact.png)
-* [Contact-Pad](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/contact_pad.png)
-* [Contact-Phone](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/blob/master/assets/wireframes/thumbnails/contact_phone.png)
+* [Projects Page](assets/wireframes/thumbnails/projects.png)
+* [Projects-Pad](assets/wireframes/thumbnails/projects_pad.png)
+* [Projects-Phone](assets/wireframes/thumbnails/projects_phone.png)
+* [Contact Page](assets/wireframes/thumbnails/contact.png)
+* [Contact-Pad](assets/wireframes/thumbnails/contact_pad.png)
+* [Contact-Phone](assets/wireframes/thumbnails/contact_phone.png)
 
 ## UX & User Stories
 
