@@ -105,7 +105,7 @@ The contact page contains the responsive hero image with the menu, address of th
 * [Font Awesome](https://fontawesome.com/start) was used for icons in the menu and social media links in the footer.
 * [Google Fonts](https://fonts.google.com/) was used to style text on the website.
 * [Google Maps](https://www.google.co.uk/maps) was used for embedded map in the address section of the Contact page. 
-
+* [Autoprefixer](https://autoprefixer.github.io/) to make sure your css has all the prefixes it needs to work on all modern browsers.
 
 ## Testing
 
@@ -169,7 +169,8 @@ Content is mainly written by Alexey Statsenko.
 4. [W3schools.com](https://www.w3schools.com/) for code used on e-mail form; constantly referred to this web site for examples, explanations, etc. 
 5. [Font Awesome](https://fontawesome.com/) for menu and social media icons. 
 6. [Stack Overflow](https://stackoverflow.com/) Used as a resource for finding answers to all types of coding problems.
-7. Fragements of texts from the websites: 
+7. [Autoprefixer](https://autoprefixer.github.io/) to make sure your css has all the prefixes it needs to work on all modern browsers.
+8. Fragements of texts from the websites: 
     * [The Frydlant castle](https://www.zamek-frydlant.cz/en)
     * [The Hospital Kuks](https://www.hospital-kuks.cz/en)
     * [The Air Park](http://airpark.wz.cz/?page_id=32&lang=en)

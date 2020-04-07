@@ -3,8 +3,6 @@
 /*----  General styles ---*/
 @import url('https://fonts.googleapis.com/css?family=Quantico:Ruda:200,300,400,500,600,700&display=swap');
 
-
-
 body {
     font-family: "Ruda", sans-serif;
 }
@@ -29,8 +27,6 @@ a, a:hover{
     text-decoration: none;
     color: rgba(58, 58, 204, 1);
 }
-
-
 
 
 /*--- Hero Image + logo ---*/
@@ -82,6 +78,7 @@ a, a:hover{
   position: relative;
  
 }
+
 /*--- Hero image animation; the code is taken from Love Running tutorial from this course ---*/
 @-webkit-keyframes hero-zoom {
   from{
@@ -93,6 +90,7 @@ a, a:hover{
             transform: scale(1.1);
   }
 }
+
 @keyframes hero-zoom {
   from{
     -webkit-transform: scale(1);
@@ -104,7 +102,10 @@ a, a:hover{
   }
 }
 
+<<<<<<< HEAD
 /*-- Hero image animation for desktop view --*/
+=======
+>>>>>>> contact
 @media screen and (min-width: 1300px) {   
     #hero-image{
     	background: url("../images/hero_image_big.jpg") no-repeat;
@@ -113,7 +114,6 @@ a, a:hover{
 }
 
 /*-- Hero image animation for mobile view --*/
-
 @media screen and (max-width: 565px) {   
     #hero-image{
     	background: url("../images/hero_image_2.jpg") no-repeat;
@@ -235,6 +235,7 @@ header a:hover {
     color: rgba(32, 32, 102, 0.9);
 }
 
+
 /*--- About section ---*/
 
 .about {
@@ -300,6 +301,7 @@ header a:hover {
   height: auto;
 }
 
+
 /*--- Footer ---*/
 
 .license  {
@@ -353,6 +355,7 @@ header a:hover {
     color: white;
 }
 
+
 /*-- Projects -- */
 
 .projects {
@@ -382,6 +385,7 @@ header a:hover {
 .project-image-bg {
     background:  #f5f5f5;
 }
+
 
 /*--- Gallery ---*/
 
@@ -429,6 +433,7 @@ header a:hover {
     color:  #201766;
 }
 
+
 /*--- Address + Map ---*/
 
 .address {
@@ -467,7 +472,6 @@ header a:hover {
     width: 100%;
     height: 100%;
 }
-
 
 
 /*--- Contact Form ---*/
