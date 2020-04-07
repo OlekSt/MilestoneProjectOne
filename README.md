@@ -1,5 +1,5 @@
 # User Centric Frontend Project
-<img src="../images/amiresponsive.jpg" alt="Am I responsive print screen" style="margin: 0 10px;" width="100%"/>
+<img src="assets/images/amiresponsive.jpg" alt="Am I responsive print screen" style="margin: 0 10px;" width="100%"/>
          
 ## Website for a company providing aerial photo/video services
 
@@ -39,7 +39,7 @@ PDF and BMPR files are stored at /assets/wireframes.
 <img src="assets/wireframes/thumbnails/index-pad.png" alt="Home Page - Pad" style="float: left; margin-rigth: 10px;" width="175"/>
 <img src="assets/wireframes/thumbnails/index-phone.png" alt="Home Page - Phone" style="float: left; margin-rigth: 10px;" width="140"/>
 
-You can see all the wireframes (Computer-, Pad-, phone-view) in the [wifeframes folder](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/tree/master/assets/wireframes/thumbnails)
+You can see all the wireframes (Computer-, Pad-, phone-view) in the [wireframes folder](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/tree/master/assets/wireframes/thumbnails)
 
 
 ## UX & User Stories
@@ -121,7 +121,7 @@ The contact page contains the responsive hero image with the menu, address of th
 Content is mainly written by Alexey Statsenko. 
 
 #### Media
-1. All the photos used for the website were taken by me, Alexey Statsenko.
+1. All the photos used for the website were taken by Alexey Statsenko, all the rights belong to STOdrones.
 2. [Colorspace](https://mycolor.space/) for matching colors of the logo, section titles, links, links' responsive backgrounds, social media icons & their responsive backgrounds. 
 3. [Am I Responsive](http://ami.responsivedesign.is/) web site for checking responsiveness on various screen sizes.
 4. [W3schools.com](https://www.w3schools.com/) for code used on e-mail form; constantly referred to this web site for examples, explanations, etc. 
@@ -130,7 +130,7 @@ Content is mainly written by Alexey Statsenko.
 7. Fragements of texts from the websites: 
     * [The Frydlant castle](https://www.zamek-frydlant.cz/en)
     * [The Hospital Kuks](https://www.hospital-kuks.cz/en)
-    8 [The Air Park](http://airpark.wz.cz/?page_id=32&lang=en)
+    * [The Air Park](http://airpark.wz.cz/?page_id=32&lang=en)
 
 
 #### Acknowledgements
@@ -141,3 +141,7 @@ Content is mainly written by Alexey Statsenko.
 4. Idea for footer split into three parts, and social links animation idea + partly code taken from  "First CV" tutorial of the course. 
 5. Text about the historical/tourist landmarks are partly taken from websites of the respective points of interest. 
 6. Contact form code is taken from w3schools website. 
+
+Special thanks to: 
+* My mentor, Adegbenga Adeye, for advice and help with planning and creating the website. 
+* Richard Wells (Jedi in training) for peer code review, and help with solving some css/hmtl issues. 
