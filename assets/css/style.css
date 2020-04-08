@@ -28,6 +28,7 @@ a, a:hover{
     color: #004390;
 }
 
+
 /*--- Hero Image + logo ---*/
 
 #hero-title {
@@ -101,6 +102,7 @@ a, a:hover{
   }
 }
 
+
 /*-- Hero image for desktop view --*/
 @media screen and (min-width: 1300px) {   
     #hero-image{
@@ -108,8 +110,8 @@ a, a:hover{
         height: 600px;
         width: 100%;
     }
-    
 }
+
 
 /*-- Hero image animation for mobile view --*/
 @media screen and (max-width: 565px) {   

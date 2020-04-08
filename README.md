@@ -104,10 +104,13 @@ The contact page contains the responsive hero image with the menu, address of th
 
 ### Features to Implement in the Future
 
+*Due to time constraints and whishing not to extend deadline of submitting the project, I have decided to keep some features implementation or fine-tuning, improvements of existing ones for later.*
+
 * Expand the Projects section into a separate page and present more projects. 
 * Expand Gallery section into a separate page and add more photos.
 * Create a separate Video Gallery page.
 * Czech language version.
+* Connect contact form to an email server, and make the form work properly
 * Some fine tuning mentioned in the Testing write up section in *italics*.
 
 
@@ -187,6 +190,7 @@ Checked via [Am I responsive](http://ami.responsivedesign.is/#) where you can sc
 ## Manual (logical) testing of all elements and functionality on every page
 
 All the pages were tested on an Android phone, a laptop, because i don't have any other devices available, i tested Desktop and Ipad via the [Am I responsive](http://ami.responsivedesign.is/#)where you can scroll and click buttons & links on all the screens. I also checked all the pages on the developer tools. 
+
 ### Home Page 
 
 1. Navigation Menu
@@ -298,3 +302,4 @@ Special thanks to:
 * My mentor, Adegbenga Adeye, for advice and help with planning and creating the website; checking the project and giving advice dring the project's calls - checking the code, fixing problems, giving general advice how to organize the website in a better way.
 * Richard Wells (Jedi in training) for informative posts on slack forums, and his peer code review, and help with solving some css/html issues. 
 * [Nafeesah Younis](https://github.com/nafeesahyounis), Cocde Institute student for advice on how to organize my first project, code advice, and other help for best possible result. 
+* [Simen Daehlin](https://www.linkedin.com/in/simendaehlin/) for traning and advice on using git command line/git commands.
