@@ -69,8 +69,13 @@ The target visitor is English or Czech speaking (for now the website is implemen
 ## Features
 
 The website has three pages (Home, Projects, and Contact). Each page has a clearly visible responsive navigation menu in the bottom-right corner of the hero image, a logo in the top left-hand corner and a footer that has license & copyright information, plus links to social media - Facebook, Instagram, LinkedIn. 
-
 The website's objective is to maximise the amount of exposure of the user to aerial photographs, so all the pages have the  hero image (responsive to attract attention) depicting an appealing aerial view of the well-known touristic & historical landmark of Prague - the Charles bridge. A user will see the hero image every time switching between pages, the animation of which is intended to grab a visitor's attention every time any page re-loads. Plus Services, Projects and Gallery contain a lot of high quality aerial photos to create a deep impression on a visitor.
+    * I used two fonts: 
+        * Quantico for its technical look to convey connection the advanced technology of UAVs, used in the Logo and copyright info in the footer
+        * Ruda, for its slightly similar to technical look, but also quite normal, easily readable; used for all other texts on the website. 
+    * I used two main colour palletes:
+        * Dark blue/violet, and matching colors, to connect to the color of the river on the hero image, used for the logo, buttons, links, responsive backgrounds, etc.
+        * Muted section backgrounds, to create visual separation between parts of the web-site, but not to distract attention from the main areas.
 
 ### Home
 
