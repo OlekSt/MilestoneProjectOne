@@ -6,7 +6,7 @@
 [Github Pages link](https://olekst.github.io/User-Centric-Frontend-Milestone-Project-1/)
 
 The project is a website for a company providing services in aerial photography & filming on the territory of the Czech Republic. 
-The website provides info about the company, equipment it uses for its proejcts, a list of services it provides, also showcases a number of projects
+The website provides info about the company, equipment it uses for its projects, a list of services it provides, also showcases a number of projects
 and photo gallery. There is a contact page with address of the company, a Google map with its location, and a contact form which enables visitors to contact the company.
 The footer contains a link to the license from the Civil Aviation Authority, and links to social media pages of the company.
 
@@ -14,14 +14,14 @@ The business goals of this website are:
 
 * Create online presence, and provide info about the company, its services.
 
-* Present examples of projects, types and quality of photos, & demonstrate company's expereince.
+* Present examples of projects, types and quality of photos, & demonstrate company's experience.
 
 * Offer a simple way to find the company's location and contact it via a contact form. 
 
 
 The customer goals of this website are:
 
-* Searching for a company providing aerial photo/vidoe services with suitable experience and capabilities.
+* Searching for a company providing aerial photo/video services with suitable experience and capabilities.
 
 * Access to the company's portfolio of services & implemented projects.
 
@@ -32,8 +32,8 @@ The customer goals of this website are:
 
 ## Wireframes
 
-Balsamiq wireframes software was used to create wireframes for this proejct.
-PDF and BMPR files are stored in [the wireframes foldes](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/tree/master/assets/wireframes).
+Balsamiq wireframes software was used to create wireframes for this project.
+PDF and BMPR files are stored in [the wireframes folder](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/tree/master/assets/wireframes).
 
 <table>
     <tr>
@@ -54,15 +54,15 @@ You can see all the other wireframes here:
 
 ## UX & User Stories
 
-The purpose of the site is to provide a simple, easy to use format presenting information about the company, its services, and its expereince by presenting implemented projects & photo portfolio. It is aimed at potential private and business clients from various industries, inluding (but not limited to) real estate, sport & cultural events, tourism & travel, industrial complexes & construction, etc. 
+The purpose of the site is to provide a simple, easy to use format presenting information about the company, its services, and its experience by presenting implemented projects & photo portfolio. It is aimed at potential private and business clients from various industries, inlcuding (but not limited to) real estate, sport & cultural events, tourism & travel, industrial complexes & construction, etc. 
 The target visitor is English or Czech speaking (for now the website is implemented in English). 
 
-1. First visitor is welcomed by a great view of the worldwide known landmark of Prague - The Charlse bridge, from an unusual viewpoint. This shows a visitor what great and unorthodox image can be captrued from any point in the air around the point of interest.  
+1. First visitor is welcomed by a great view of the worldwide known landmark of Prague - The Charles bridge, from an unusual viewpoint. This shows a visitor what great and unorthodox image can be captured from any point in the air around the point of interest.  
 2. Right underneath the main image a potential client can get directly to company's info & its services. The services area features more aerial images of Czech landmarks and industrial buildings.
 3. A new visitor can easily & intuitively navigate between the pages, so no time is wasted searching for things. The main menu is clearly presented on the main/hero image and a visitor won't get confused with how to navigate the site. 
-4. A visitor can access immediately the list and descriptioin of provided services, used equipment, and featured implemented projects, featuring impressive photos. For enhanced impression the section featuring the projects is complemented by a gallery of best aerial photos. 
-5. All the pages provide easy access to social media (instagram and facebook), which contain more photos and videos produced by the company.
-6. A potential client can see what type of projects the company implmeneted, and get a clear idea of its experience by browsing through projeccts and photo gallery. 
+4. A visitor can access immediately the list and description of provided services, used equipment, and featured implemented projects, featuring impressive photos. For enhanced impression the section featuring the projects is complemented by a gallery of best aerial photos. 
+5. All the pages provide easy access to social media (Facebook, Instagram, LinkedIn), which contain more photos and videos produced by the company.
+6. A potential client can see what type of projects the company implmented, and get a clear idea of its experience by browsing through projects and photo gallery. 
 7. Any potential client or a business with time constraints can use the contact form quickly & intuitively to get more info or discuss cooperation.
 
 
@@ -70,19 +70,19 @@ The target visitor is English or Czech speaking (for now the website is implemen
 
 The website has three pages (Home, Projects, and Contact). Each page has a clearly visible responsive navigation menu in the bottom-right corner of the hero image, a logo in the top left-hand corner and a footer that has license & copyright information, plus links to social media - Facebook, Instagram, LinkedIn. 
 
-The website's objective is to maximise the amount of exposure of the user to aerial photographs, so all the pages have the  hero image (responsive to attract attention) depicting an appealing aerial view of the well known touristic & historical landmark of Prague - the Charles bridge. A user will see the hero image every time switching between pages, the animation of which is intended to grab a visitor's attention every time any page re-loads. Plus Services, Projects and Gallery contain a lot of high quality aerial phtotos to create a deep impression on a visitor.
+The website's objective is to maximise the amount of exposure of the user to aerial photographs, so all the pages have the  hero image (responsive to attract attention) depicting an appealing aerial view of the well-known touristic & historical landmark of Prague - the Charles bridge. A user will see the hero image every time switching between pages, the animation of which is intended to grab a visitor's attention every time any page re-loads. Plus Services, Projects and Gallery contain a lot of high quality aerial photos to create a deep impression on a visitor.
 
 ### Home
 
 The Home page has a responsive hero image to create attention-grabbing experience for the user. Responsive menu is placed in the right-bottom corner of the hero image on the dark background of the Vltava river. It is easily visble for users to see it right away. The menu icons react to mouse movement so that a visitor can easily navigation between pages. 
 
-Below the hero image the page is split into 1/3-2/3, where left side provide descriptive info about the copmany and the equipment it uses for its projects. The right side gives a list of services the copmany provides with appealing aerial photoes and desciption of the services. 
+Below the hero image the page is split into 1/3-2/3, where left side provide descriptive info about the company and the equipment it uses for its projects. The right side gives a list of services the company provides with appealing aerial photos and description of the services. 
 
 ### Projects
 
-The Projects page features a number of projects with photoes and description of the projects' obejctives, and some description of the points or interestes or sites photographed. The page is following the 1/3-2/3 split, where pictures take the left narrower side, and the titles and descriptions cover the right 2/3 side. The Projects section is responsive, and images become full screen wide in Pads and phones, and placed above respective descriptions of the proejcts. 
+The Projects page features a number of projects with photos and description of the projects' objectives, and description of the points of interest or sites photographed. The page is following the 1/3-2/3 split, where pictures take the left narrower side, and the titles and descriptions cover the right 2/3 side. The Projects section is responsive, and images become full screen wide in Pads and phones, and placed above respective descriptions of the projects. 
 
-Gallery is placed below the Projects section and features best aerial shots to showcase the artistic quality and expereince of the company. The photoes organizes in a tile formation, 4 pictures/tiles in a row, with a responsive resizing of 3 images per line for Pads, and 2 images/line for phones. 
+Gallery is placed below the Projects section and features best aerial shots to showcase the artistic quality and experience of the company. The photos organizes in a tile formation, 4 pictures/tiles in a row, with a responsive resizing of 3 images per line for Pads, and 2 images/line for phones. 
 
 ### Contact
 
@@ -97,7 +97,7 @@ The contact page contains the responsive hero image with the menu, address of th
 * Footer Copyright Info (present at every page): Copyright Information for all the content present on the website.
 * Footer Social Icons(present at every page): Instagram, Facebook, LinkedIn Icons for easier access to social media of the company.  
 * About the Company Section - Introduces the potential client to the company, gives a brief summary of its activities. 
-* Equipment section - describes the quadrocopter used for projects, and a link to the quads' producer's web, which provides very detailed info. 
+* Equipment section - describes the quadcopter used for projects, and a link to the quads' producer's web, which provides very detailed info. 
 * Projects Section is placed right next to About and provides full info on all the services the company offers. 
 * Gallery section is intended to make a strong impression by showcasing the best aerial pictures, and enhance the impression of quality and professionalism of the company. 
 * Contact Form - Gives a client the opportunity to get in touch with the company & ask further questions.
@@ -148,9 +148,9 @@ Checked via [Am I responsive](http://ami.responsivedesign.is/#) where you can sc
 
 ## Testing client stories 
 
-1. As a potential client I can immediately see the appealing view of the Charles bridge, so i can immeditely fell how aerial images can impress people by being taken from very unusual viewpoints. 
-    * The landing page immediately provides the client with an appealing view, and all the necessery menu items to navigate, as well as About and Services section.
-    * A link for Projects page, containing pictures and info of implmented projects, and photo gallery, is located right at the hero image for easy access to those sections. The link has an attention grabing icon. 
+1. As a potential client I can immediately see the appealing view of the Charles bridge, so i can immediately fell how aerial images can impress people by being taken from very unusual viewpoints. 
+    * The landing page immediately provides the client with an appealing view, and all the necessary menu items to navigate, as well as About and Services section.
+    * A link for Projects page, containing pictures and info of implemented projects, and photo gallery, is located right at the hero image for easy access to those sections. The link has an attention grabing icon. 
 
 2. As a potential client, I have easy access to the company's description, services, and used equipment. 
     * A call to action is located right under the Services' description, and takes a visitor to Projects page. 
@@ -161,7 +161,7 @@ Checked via [Am I responsive](http://ami.responsivedesign.is/#) where you can sc
     * The Navigation bar is in a clear font at the bottom right corner of the hero image, on dark background.  It converts into a vertical menu in mobile view, placed on dark background of the right side of the hero image, so it is very intuitive to use. The icons are responsive, changing size when mouse moves over, so a visitor know right away, which link is active.
     * According to convention, the logo links back to the Home Page. 
 
-4. As a potential client, I have easy access to the company's photo, so i can get a good idea of quality and level of expereince. 
+4. As a potential client, I have easy access to the company's photo, so I can get a good idea of quality and level of experience.
     * There is easy and intuitive navigation that leads to Projects and Gallery from the Home page. 
     * There are pictures on all of the pages of the website. 
     * The appealing hero image grabs attention and invites visitors to explore more. 
@@ -169,16 +169,16 @@ Checked via [Am I responsive](http://ami.responsivedesign.is/#) where you can sc
 5. As a potential client, I am able to access her social media (Instagram, Facebook, LinkedIn), so that I can do further research and keep up-to-date with current projects.
     * There is a footer on each page that navigates to both Instagram, Facebook and LinkedIn pages of the company. 
 
-6. If i need, I have immediate access to the valid license from the Aviatino Authority.
-    * There is a link in the footer on each page, where i can see the license fro the Civil Aviation Authority, its validity and other details. 
+6. If i need, I have immediate access to the valid license from the Aviation Authority.
+    * There is a link in the footer on each page, where I can see the license from the Civil Aviation Authority, its validity and other details. 
 
 7. As a potential client, I can see what kind of projects the company implemented.
     * There is a list of projects with pictures, objectives, and descriptions.
     * These are complimented by a gallery of best shots to showcase the high artistic quality and provide idea about the level of experience of the company. 
 
 8. As a potential client and a business, the overall layout of the website enables me to visualise how  photographs can be used for a great visual aid to sell real estate, advertise a historical building, promote a tourist destination, or do an aerial inspection of a power station. 
-    * Minmum number of other colors (logo, menu, buttons, links, social media icons, etc) were chosen on purpose not to distract attention from the photos. Soft, subdued colors were chosen to create section sepration and visual balance. The color for log was chosen based on the colors of the river on the hero image. Then matching colors' pallete was created to play together.
-    * Overall design was done on the basis of thirds, both horizontal and vertical: horizontally the Home page, for example, has three horizontal section: 1.hero image, 2. main section (About + Serices), 3.footer. Vertically, the hero image covers the whole width, the main section is split into 1/3 and 2/3, and the footer into 3 parts. This additionally creates a diagonal line going from the Logo to the bottom-right corner of the website. 
+    * Minimum number of other colours (logo, menu, buttons, links, social media icons, etc) were chosen on purpose not to distract attention from the photos. Soft, subdued colours were chosen to create section separation and visual balance. The color for log was chosen based on the colors of the river on the hero image. Then matching colours' pallete was created to play together.
+    * Overall design was done on the basis of thirds, both horizontal and vertical: horizontally the Home page, for example, has three horizontal section: 1.hero image, 2. main section (About + Services), 3.footer. Vertically, the hero image covers the whole width, the main section is split into 1/3 and 2/3, and the footer into 3 parts. This additionally creates a diagonal line going from the Logo to the bottom-right corner of the website. 
     * Minimum number of other items were added to the page, in order to keep main focus on the photos, and supporting texts. 
  
 8. As a potential client and a business with time constraints, I can use the contact form quickly and intuitively to contact the company. 
@@ -189,26 +189,26 @@ Checked via [Am I responsive](http://ami.responsivedesign.is/#) where you can sc
 
 ## Manual (logical) testing of all elements and functionality on every page
 
-All the pages were tested on an Android phone, a laptop, because i don't have any other devices available, i tested Desktop and Ipad via the [Am I responsive](http://ami.responsivedesign.is/#)where you can scroll and click buttons & links on all the screens. I also checked all the pages on the developer tools. 
+All the pages were tested on an Android phone, a laptop, because i don't have any other devices available, i tested Desktop and Ipad via the [Am I responsive](http://ami.responsivedesign.is/#) where you can scroll and click buttons & links on all the screens. I also checked all the pages on the developer tools. 
 
 ### Home Page 
 
 1. Navigation Menu
 * I opened the Home page. Checked how the navigation menu is placed, and how well visible it is. It took me some adjusting for best location that works for all sizes. It is still can be fine-tuned, as it is not perfect. Especially in mobile view; home icon is not placed as it is intended, i will need to work on fixing that. The placement and visibility needs some additional work for improvement. 
-* Checked if all the menu icons are responsive on all the pages. And if each menu items higlights correctly according to which page is active. 
+* Checked if all the menu icons are responsive on all the pages. And if each menu items highlights correctly according to which page is active. 
 * Clicked on all the Menu items to check if it switches between pages, and how hero image animation works on all of them. I had a problem with size of the hero image for desktops, it was too small. I have added a bigger image for screens over 1300px.
 * Logo was clicked from all the three pages and as expected it took the client to the Home Page. 
 
 
 2. About and Services section
-* Checked how sections, images and texts are responsive on various sizes of screens, if they re-arrange correclty for Pad and mobile view.
-* Clciked the link about the quadrocopter to check if it takes to the correct DJI website.
+* Checked how sections, images and texts are responsive on various sizes of screens, if they re-arrange correctly for Pad and mobile view.
+* Clicked the link about the quadcopter to check if it takes to the correct DJI website.
 * Clicked the call-to-action button to check if it takes to the correct page.  
 
 3. Footer
 * Checked how  the footer re-arranges according to change of screen size, and if it looks as planned on all screen sizes. 
 * Checked if license link is responsive and changes font & background when a mouse moves over it. Clicked the link to show license if it opens the correct document. 
-* Moved the mouse over the socila media icons to check if they react as planned, byt changing color and background. Clicked on each icon to check if the lead to correct pages. 
+* Moved the mouse over the social media icons to check if they react as planned, byt changing colour and background. Clicked on each icon to check if the lead to correct pages. 
 
 ### Projects Page 
 
@@ -235,7 +235,7 @@ All the pages were tested on an Android phone, a laptop, because i don't have an
 2. Map
 * Checked if the map opens the Google maps on click. 
 3. Call to Action button
-* Clciked to check if it takes to the Projects page.
+* Clicked to check if it takes to the Projects page.
 4. Contact Form 
 * Form was checked to see if it would allow user to submit without all mandatory fields filled in. It requires to fill all the fields.
 * Checked if it requires to fill in correct format of email. It does require to enter "@", but it does not fully check the email format, and let's send an email like "alex.st@gmai" or "alex.st@gmail.co". I have decided to use only html for email verification, but have not found a method to fully prove it. As i don't have any BackEnd connectivity, it is not essential at the moment. For proper functioning JavaScript would be used. 
@@ -277,13 +277,13 @@ Content of the website is created or curated by Alexey Statsenko.
 
 #### Media
 1. All the photos used for the website were taken by Alexey Statsenko, all the rights belong to STOdrones.
-2. [Colorspace](https://mycolor.space/) for matching colors of the logo, section titles, links, links' responsive backgrounds, social media icons & their responsive backgrounds. 
+2. [Colorspace](https://mycolor.space/) for matching colours of the logo, section titles, links, links' responsive backgrounds, social media icons & their responsive backgrounds. 
 3. [Am I Responsive](http://ami.responsivedesign.is/) web site for checking responsiveness on various screen sizes.
 4. [W3schools.com](https://www.w3schools.com/) for code used on e-mail form; constantly referred to this web site for examples, explanations, etc. 
 5. [Font Awesome](https://fontawesome.com/) for menu and social media icons. 
 6. [Stack Overflow](https://stackoverflow.com/) used as a resource for finding answers to all types of coding problems.
 7. [Autoprefixer](https://autoprefixer.github.io/) to make sure your css has all the prefixes it needs to work on all modern browsers.
-8. Fragements of texts from the websites: 
+8. Fragments of texts from the websites: 
     * [The Frydlant castle](https://www.zamek-frydlant.cz/en)
     * [The Hospital Kuks](https://www.hospital-kuks.cz/en)
     * [The Air Park](http://airpark.wz.cz/?page_id=32&lang=en)
@@ -299,7 +299,7 @@ Content of the website is created or curated by Alexey Statsenko.
 6. Contact form code is taken from w3schools website. 
 
 Special thanks to: 
-* My mentor, Adegbenga Adeye, for advice and help with planning and creating the website; checking the project and giving advice dring the project's calls - checking the code, fixing problems, giving general advice how to organize the website in a better way.
+* My mentor, Adegbenga Adeye, for advice and help with planning and creating the website; checking the project and giving advice during the project's calls - checking the code, fixing problems, giving general advice how to organize the website in a better way.
 * Richard Wells (Jedi in training) for informative posts on slack forums, and his peer code review, and help with solving some css/html issues. 
-* [Nafeesah Younis](https://github.com/nafeesahyounis), Cocde Institute student for advice on how to organize my first project, code advice, and other help for best possible result. 
-* [Simen Daehlin](https://www.linkedin.com/in/simendaehlin/) for traning and advice on using git command line/git commands.
+* [Nafeesah Younis](https://github.com/nafeesahyounis), Code Institute student for advice on how to organize my first project, code advice, and other help for best possible result. 
+* [Simen Daehlin](https://www.linkedin.com/in/simendaehlin/) for training and advice on using git command line/git commands.
