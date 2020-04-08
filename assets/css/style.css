@@ -462,7 +462,7 @@ header a:hover {
 #map {
     padding: 2px;
     border: grey 0.2px solid;
-    margin: 40px 5px;
+    margin: 40px 15px;
     -ms-flex-line-pack: center;
         align-content: center;
 }
@@ -477,7 +477,8 @@ header a:hover {
 
 .contact-form {
     border-radius: 5px;
-    padding: 10px 20px;
+    padding: 10px 30px;
+    
     background: #fcfcfc;
 }
 

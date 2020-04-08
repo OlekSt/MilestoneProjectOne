@@ -92,16 +92,15 @@ The contact page contains the responsive hero image with the menu, address of th
 ## Existing Features
 
 * Header Logo: Each page has a logo in the top-left corner of the hero image, and has an active link to the home page(index.html). The purpose of this is to create a sense of the brand.
-* Header Navigation: There is a navigation manu at the bottom-right side of the hero image, very visible on the dark background, and easily spotted by a first-time or repeated visitor. The menu re-arranges itself into vertical for mobile view. In both views icons increase in size with mouse movement to show a user which menu-item/link is about to be clicked.
-* Footer License Info (present at every page): License info with a link to permit from the Czech Civil Aviation Authority. .
+* Header Navigation: There is a navigation menu at the bottom-right side of the hero image, clearly visible on the dark background, and easily spotted by a first-time or repeated visitor. The menu re-arranges itself into vertical for mobile view. In both views icons increase in size with mouse movement to show a user which menu-item/link is about to be clicked.
+* Footer License Info (present at every page): License info with a link to a flights permit from the Czech Civil Aviation Authority.
 * Footer Copyright Info (present at every page): Copyright Information for all the content present on the website.
-* Footer Social Icons(present at every page): Instagram, Facebook, LinkedIn Icons for easier access to social media of the company. 
-* Carousel: There is a carousel on the landing page with three pictures. The purpose of this is to immediately capture the attention of the user/potential client, as this will subsequently lead them to view the portfolio of photographs and book the model. 
+* Footer Social Icons(present at every page): Instagram, Facebook, LinkedIn Icons for easier access to social media of the company.  
 * About the Company Section - Introduces the potential client to the company, gives a brief summary of its activities. 
-* Equipment section - describes the quadrocopter used for projects.
-* Projects Section is placed right next to About and pprovides full info on all the services the company offers. 
-* Gallery section is intended to make a strong impression by showcasing the best aerial pictures, and enhance the impression of quality annd professionalism of the company. 
-* Contact Form - Gives a client the opportunity to get in touch with the company and ask further questions.
+* Equipment section - describes the quadrocopter used for projects, and a link to the quads' producer's web, which provides very detailed info. 
+* Projects Section is placed right next to About and provides full info on all the services the company offers. 
+* Gallery section is intended to make a strong impression by showcasing the best aerial pictures, and enhance the impression of quality and professionalism of the company. 
+* Contact Form - Gives a client the opportunity to get in touch with the company & ask further questions.
 
 ### Features to Implement in the Future
 
@@ -109,6 +108,7 @@ The contact page contains the responsive hero image with the menu, address of th
 * Expand Gallery section into a separate page and add more photos.
 * Create a separate Video Gallery page.
 * Czech language version.
+* Some fine tuning mentioned in the Testing write up section in *italics*.
 
 
 ## Technologies Used
@@ -130,7 +130,7 @@ The validity of the code and potential errors were checked for both HTML and CSS
 
 [W3C Markup Validation](https://validator.w3.org/)
 
-The responsivenes of the website for various screen sizes was tested via this website: 
+The responsiveness of the website for various screen sizes was tested via this website: 
 
 [Am I responsive](http://ami.responsivedesign.is/). Though it tests for various Apple devices, it gave a solid idea whether the website is responsive. 
 
@@ -141,7 +141,7 @@ Google Chrome, Internet Edge; all pages, links on those pages, and footer icon l
 Used my Samsung A7 to test; all pages, links, icons performed well on all devices using  Chrome.
 
 3. Desktop & Pad
-Checked via [Am I responsive](http://ami.responsivedesign.is/#)where you can scroll and click buttons & links on all the screens. 
+Checked via [Am I responsive](http://ami.responsivedesign.is/#) where you can scroll and click buttons & links on all the screens. 
 
 ## Testing client stories 
 
@@ -150,7 +150,7 @@ Checked via [Am I responsive](http://ami.responsivedesign.is/#)where you can scr
     * A link for Projects page, containing pictures and info of implmented projects, and photo gallery, is located right at the hero image for easy access to those sections. The link has an attention grabing icon. 
 
 2. As a potential client, I have easy access to the company's description, services, and used equipment. 
-    * A call to action is located right under the Services' description, and takes a visitor to Porjects page. 
+    * A call to action is located right under the Services' description, and takes a visitor to Projects page. 
     * A brief description of the company is placed right under the hero image, straight line down from the main logo. It gives a quick introduction of the company to visitors pressed for time. 
 
 3. As a new visitor to the site, I can easily and intuitively navigate between the pages, so I don’t waste time searching for things.
@@ -213,10 +213,10 @@ All the pages were tested on an Android phone, a laptop, because i don't have an
 * Code was checked in ChromeDevtools too. 
 2. Projects' images and texts 
 * Checked proper visibility on all devices, plus how they re-arrange according to screen size change, and whether they do as planned. 
-* *Noted possible improvements for later: For Pad view add a third image per Project to eliminate empty space on the left side from the description text. The images shoul be visible only on Pad, not on mobile or laptop screens.* 
+* *Noted possible improvements for later: For Pad view add a third image per Project to eliminate empty space on the left side from the description text. The images should be visible only on Pad, not on mobile or laptop screens.* 
 3. Gallery images  
 * Images were checked for proper placement, creating tile effect, and if they re-arrange correctly for smaller sizes (3 images per line for Pad, 2 per line for mobile). 
-* *Noted possible improvements for later: in Pad view there is a single image on the last line above the footer. Make it invisible for Pad view to eliminate empty spaces.*
+* *Noted possible improvements for later: in Pad view there is a single image on the last line above the footer. Either make it invisible for Pad view to eliminate empty spaces or just move it to the left side.*
     *For both Projects and Gallery section to resize all the images to make them load faster.*
 4. Call to Action Button 
 * The button was clicked to check if it takes to the Address-Contact page. 
@@ -277,7 +277,7 @@ Content of the website is created or curated by Alexey Statsenko.
 3. [Am I Responsive](http://ami.responsivedesign.is/) web site for checking responsiveness on various screen sizes.
 4. [W3schools.com](https://www.w3schools.com/) for code used on e-mail form; constantly referred to this web site for examples, explanations, etc. 
 5. [Font Awesome](https://fontawesome.com/) for menu and social media icons. 
-6. [Stack Overflow](https://stackoverflow.com/) Used as a resource for finding answers to all types of coding problems.
+6. [Stack Overflow](https://stackoverflow.com/) used as a resource for finding answers to all types of coding problems.
 7. [Autoprefixer](https://autoprefixer.github.io/) to make sure your css has all the prefixes it needs to work on all modern browsers.
 8. Fragements of texts from the websites: 
     * [The Frydlant castle](https://www.zamek-frydlant.cz/en)
@@ -291,9 +291,10 @@ Content of the website is created or curated by Alexey Statsenko.
 2. Idea about the hero image + animation, plus some code is from the Love Running tutorial of this course. 
 3. Navbar code is taken from Bootstrap. 
 4. Idea for footer split into three parts, and social links animation idea + partly code taken from  "First CV" tutorial of the course. 
-5. Text about the historical/tourist landmarks are partly taken from websites of the respective points of interest (see point 8, section above). 
+5. Texts about the historical/tourist landmarks are partly taken from websites of the respective points of interest (see point 8, section above). 
 6. Contact form code is taken from w3schools website. 
 
 Special thanks to: 
-* My mentor, Adegbenga Adeye, for advice and help with planning and creating the website. 
-* Richard Wells (Jedi in training) for informative posts on slack forums, and his peer code review, and help with solving some css/hmtl issues. 
+* My mentor, Adegbenga Adeye, for advice and help with planning and creating the website; checking the project and giving advice dring the project's calls - checking the code, fixing problems, giving general advice how to organize the website in a better way.
+* Richard Wells (Jedi in training) for informative posts on slack forums, and his peer code review, and help with solving some css/html issues. 
+* [Nafeesah Younis](https://github.com/nafeesahyounis), Cocde Institute student for advice on how to organize my first project, code advice, and other help for best possible result. 
