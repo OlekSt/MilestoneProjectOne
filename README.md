@@ -136,8 +136,10 @@ The contact page contains the responsive hero image with the menu, address of th
 The validity of the code and potential errors were checked for both HTML and CSS using the following validators:
 
 [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) 
+*Got warnings for a number of added by the Autoprefixer parameters, e.g. "-webkit-box-sizing".*
 
 [W3C Markup Validation](https://validator.w3.org/)
+*During a check I got warning and recommendation not to use H1 for Projects & Gallery titles, but i decided to keep them as H2 would be small for needed visual effect.*
 
 The responsiveness of the website for various screen sizes was tested via this website: 
 
