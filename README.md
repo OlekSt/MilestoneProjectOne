@@ -194,54 +194,53 @@ All the pages were tested on an Android phone, a laptop, because i don't have an
 ### Home Page 
 
 1. Navigation Menu
-* I opened the Home page. Checked how the navigation menu is placed, and how well visible it is. It took me some adjusting for best location that works for all sizes. It is still can be fine-tuned, as it is not perfect. Especially in mobile view; home icon is not placed as it is intended, i will need to work on fixing that. The placement and visibility needs some additional work for improvement. 
-* Checked if all the menu icons are responsive on all the pages. And if each menu items highlights correctly according to which page is active. 
-* Clicked on all the Menu items to check if it switches between pages, and how hero image animation works on all of them. I had a problem with size of the hero image for desktops, it was too small. I have added a bigger image for screens over 1300px.
-* Logo was clicked from all the three pages and as expected it took the client to the Home Page. 
-
+    * I opened the Home page. Checked how the navigation menu is placed, and how well visible it is. It took me some adjusting for best location that works for all sizes. It is still can be fine-tuned, as it is not perfect. Especially in mobile view; home icon is not placed as it is intended, i will need to work on fixing that. The placement and visibility needs some additional work for improvement. 
+    * Checked if all the menu icons are responsive on all the pages. And if each menu items highlights correctly according to which page is active. 
+    * Clicked on all the Menu items to check if it switches between pages, and how hero image animation works on all of them. I had a problem with size of the hero image for desktops, it was too small. I have added a bigger image for screens over 1300px.
+    * Logo was clicked from all the three pages and as expected it took the client to the Home Page. 
 
 2. About and Services section
-* Checked how sections, images and texts are responsive on various sizes of screens, if they re-arrange correctly for Pad and mobile view.
-* Clicked the link about the quadcopter to check if it takes to the correct DJI website.
-* Clicked the call-to-action button to check if it takes to the correct page.  
+    * Checked how sections, images and texts are responsive on various sizes of screens, if they re-arrange correctly for Pad and mobile view.
+    * Clicked the link about the quadcopter to check if it takes to the correct DJI website.
+    * Clicked the call-to-action button to check if it takes to the correct page.  
 
 3. Footer
-* Checked how  the footer re-arranges according to change of screen size, and if it looks as planned on all screen sizes. 
-* Checked if license link is responsive and changes font & background when a mouse moves over it. Clicked the link to show license if it opens the correct document. 
-* Moved the mouse over the social media icons to check if they react as planned, byt changing colour and background. Clicked on each icon to check if the lead to correct pages. 
+    * Checked how  the footer re-arranges according to change of screen size, and if it looks as planned on all screen sizes. 
+    * Checked if license link is responsive and changes font & background when a mouse moves over it. Clicked the link to show license if it opens the correct document. 
+    * Moved the mouse over the social media icons to check if they react as planned, byt changing colour and background. Clicked on each icon to check if the lead to correct pages. 
 
 ### Projects Page 
 
 1. Navigation Menu
-* Tested the same way as described above (Home page).
-* Code was checked in ChromeDevtools too. 
+    * Tested the same way as described above (Home page).
+    * Code was checked in ChromeDevtools too. 
 2. Projects' images and texts 
-* Checked proper visibility on all devices, plus how they re-arrange according to screen size change, and whether they do as planned. 
-* *Noted possible improvements for later: For Pad view add a third image per Project to eliminate empty space on the left side from the description text. The images should be visible only on Pad, not on mobile or laptop screens.* 
+    * Checked proper visibility on all devices, plus how they re-arrange according to screen size change, and whether they do as planned. 
+    * *Noted possible improvements for later: For Pad view add a third image per Project to eliminate empty space on the left side from the description text. The images should be visible only on Pad, not on mobile or laptop screens.* 
 3. Gallery images  
-* Images were checked for proper placement, creating tile effect, and if they re-arrange correctly for smaller sizes (3 images per line for Pad, 2 per line for mobile). 
-* *Noted possible improvements for later: in Pad view there is a single image on the last line above the footer. Either make it invisible for Pad view to eliminate empty spaces or just move it to the left side.*
+    * Images were checked for proper placement, creating tile effect, and if they re-arrange correctly for smaller sizes (3 images per line for Pad, 2 per line for mobile). 
+    * *Noted possible improvements for later: in Pad view there is a single image on the last line above the footer. Either make it invisible for Pad view to eliminate empty spaces or just move it to the left side.*
     *For both Projects and Gallery section to resize all the images to make them load faster.*
 4. Call to Action Button 
-* The button was clicked to check if it takes to the Address-Contact page. 
+    * The button was clicked to check if it takes to the Address-Contact page. 
 6. Footer 
-* Checked as described above (Home page). 
+    * Checked as described above (Home page). 
 
 ### Address - Contact Form 
 
 1. Navigation Menu
-* Tested the same way as described above (Home page).
-* Code was checked in ChromeDevtools too. 
+    * Tested the same way as described above (Home page).
+    * Code was checked in ChromeDevtools too. 
 2. Map
-* Checked if the map opens the Google maps on click. 
+    * Checked if the map opens the Google maps on click. 
 3. Call to Action button
-* Clicked to check if it takes to the Projects page.
+    * Clicked to check if it takes to the Projects page.
 4. Contact Form 
-* Form was checked to see if it would allow user to submit without all mandatory fields filled in. It requires to fill all the fields.
-* Checked if it requires to fill in correct format of email. It does require to enter "@", but it does not fully check the email format, and let's send an email like "alex.st@gmai" or "alex.st@gmail.co". I have decided to use only html for email verification, but have not found a method to fully prove it. As i don't have any BackEnd connectivity, it is not essential at the moment. For proper functioning JavaScript would be used. 
-* The screen size was changed and form was viewed on all devices to ensure that it looks clear and smooth regardless of screen size. 
+    * Form was checked to see if it would allow user to submit without all mandatory fields filled in. It requires to fill all the fields.
+    * Checked if it requires to fill in correct format of email. It does require to enter "@", but it does not fully check the email format, and let's send an email like "alex.st@gmai" or "alex.st@gmail.co". I have decided to use only html for email verification, but have not found a method to fully prove it. As i don't have any BackEnd connectivity, it is not essential at the moment. For proper functioning JavaScript would be used. 
+    * The screen size was changed and form was viewed on all devices to ensure that it looks clear and smooth regardless of screen size. 
 5. Footer 
-* Checked as described above (Home page). 
+    * Checked as described above (Home page). 
 
 
 ## Deployment
