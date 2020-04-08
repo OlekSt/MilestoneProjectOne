@@ -5,18 +5,18 @@
 
 [Github Pages link](https://olekst.github.io/User-Centric-Frontend-Milestone-Project-1/)
 
-The project is a website for a company providing services in aerial photography & filming on the terrtory of the Czech Republic. 
-The website provides info about the company, equipment it uses for its proejcts, a list of services it provides, also showcases some projects
-and photo gallery. There is a contact page with address of the company, a Google map with its locations, and a contact form which enables visitors to contact the company.
-The footer contains a link to the license from the Civil Aviation Authority, and links to social media sites.
+The project is a website for a company providing services in aerial photography & filming on the territory of the Czech Republic. 
+The website provides info about the company, equipment it uses for its proejcts, a list of services it provides, also showcases a number of projects
+and photo gallery. There is a contact page with address of the company, a Google map with its location, and a contact form which enables visitors to contact the company.
+The footer contains a link to the license from the Civil Aviation Authority, and links to social media pages of the company.
 
 The business goals of this website are:
 
-* Create online presence, and provide info abut the company, its services.
+* Create online presence, and provide info about the company, its services.
 
 * Present examples of projects, types and quality of photos, & demonstrate company's expereince.
 
-* Offer a simple way to find the company's location and contact it via the contact-form or a phone. 
+* Offer a simple way to find the company's location and contact it via a contact form. 
 
 
 The customer goals of this website are:
@@ -33,7 +33,7 @@ The customer goals of this website are:
 ## Wireframes
 
 Balsamiq wireframes software was used to create wireframes for this proejct.
-PDF and BMPR files are stored at /assets/wireframes.
+PDF and BMPR files are stored in [the wireframes foldes](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/tree/master/assets/wireframes).
 
 <table>
     <tr>
@@ -54,27 +54,27 @@ You can see all the other wireframes here:
 
 ## UX & User Stories
 
-The purpose of the site is to provide a simple, easy to use format presenting information the company, services it offers, and its expereince by presenting implemented projects, and present its photo portfolio. It is aimed at potential private and business clients from various industries, inluding (but not limited to) real estate, sport & cultural events, tourism & travel, industrial complexes & construction, etc. 
-The target visitor is English & Czech speaking. 
+The purpose of the site is to provide a simple, easy to use format presenting information about the company, its services, and its expereince by presenting implemented projects & photo portfolio. It is aimed at potential private and business clients from various industries, inluding (but not limited to) real estate, sport & cultural events, tourism & travel, industrial complexes & construction, etc. 
+The target visitor is English or Czech speaking (for now the website is implemented in English). 
 
-1. First visitor is welcomed by a great view of the main landmark of Prague - The Charlse bridge, from an unusual viewpoint. This shows a visitor what great and unorthodox image can be captrued from any point in the air around the point of interest.  
-2. Right underneath the main image a potential client gets directly to info about the company, and its services. The services area features more aerial images of Czech landmarks and industrial buildings.
-3. A new visitor can easily & intuitively navigate between the pages, so I don’t waste time searching for things. The main menu is clearly presented on the main/hero image and a visitor won't get confused with how to navigate the site. 
+1. First visitor is welcomed by a great view of the worldwide known landmark of Prague - The Charlse bridge, from an unusual viewpoint. This shows a visitor what great and unorthodox image can be captrued from any point in the air around the point of interest.  
+2. Right underneath the main image a potential client can get directly to company's info & its services. The services area features more aerial images of Czech landmarks and industrial buildings.
+3. A new visitor can easily & intuitively navigate between the pages, so no time is wasted searching for things. The main menu is clearly presented on the main/hero image and a visitor won't get confused with how to navigate the site. 
 4. A visitor can access immediately the list and descriptioin of provided services, used equipment, and featured implemented projects, featuring impressive photos. For enhanced impression the section featuring the projects is complemented by a gallery of best aerial photos. 
 5. All the pages provide easy access to social media (instagram and facebook), which contain more photos and videos produced by the company.
-6. A potential client can see what type of projects the company implmeneted, and get a clear idea of its experience. 
+6. A potential client can see what type of projects the company implmeneted, and get a clear idea of its experience by browsing through projeccts and photo gallery. 
 7. Any potential client or a business with time constraints can use the contact form quickly & intuitively to get more info or discuss cooperation.
 
 
 ## Features
 
-The website has three pages (Home, Projects, and Contact). Each page has a responsive navigation bar, a logo in the top left-hand corner and a footer that has license & copyright information, plus links to social media - Facebook, Instagram, LinkedIn. 
+The website has three pages (Home, Projects, and Contact). Each page has a clearly visible responsive navigation menu in the bottom-right corner of the hero image, a logo in the top left-hand corner and a footer that has license & copyright information, plus links to social media - Facebook, Instagram, LinkedIn. 
 
-The website's objective is to maximise the amount of exposure of the user to the aerial photographs, so all the pages have the  hero image (responsive to attract attention)depicting an appealing aerial view of the touristic and historical landmark of Prague - the Charles bridge. A user will see the hero image evvery time switches between pages. Plus Services, Projects and Gallery contain a lot of high quality aerial phtotos to create a deep impression in a visitor.
+The website's objective is to maximise the amount of exposure of the user to aerial photographs, so all the pages have the  hero image (responsive to attract attention) depicting an appealing aerial view of the well known touristic & historical landmark of Prague - the Charles bridge. A user will see the hero image every time switching between pages, the animation of which is intended to grab a visitor's attention every time any page re-loads. Plus Services, Projects and Gallery contain a lot of high quality aerial phtotos to create a deep impression on a visitor.
 
 ### Home
 
-The Home page has a a responsive hero image to create attention-grabbing experience for the user. Responsive menu is placed in the right-bottom corner of the hero image on the dark background of the Vltava river. It is easily visble for users to see it right away. The menu icons react to mouse movement so that a visitor can easily navigation between pages. 
+The Home page has a responsive hero image to create attention-grabbing experience for the user. Responsive menu is placed in the right-bottom corner of the hero image on the dark background of the Vltava river. It is easily visble for users to see it right away. The menu icons react to mouse movement so that a visitor can easily navigation between pages. 
 
 Below the hero image the page is split into 1/3-2/3, where left side provide descriptive info about the copmany and the equipment it uses for its projects. The right side gives a list of services the copmany provides with appealing aerial photoes and desciption of the services. 
 
@@ -108,6 +108,7 @@ The contact page contains the responsive hero image with the menu, address of th
 * Expand the Projects section into a separate page and present more projects. 
 * Expand Gallery section into a separate page and add more photos.
 * Create a separate Video Gallery page.
+* Czech language version.
 
 
 ## Technologies Used
@@ -268,7 +269,7 @@ These instructions were taken from the following link: [Cloning a Repository](ht
 
 
 #### Content
-Content is mainly written by Alexey Statsenko. 
+Content of the website is created or curated by Alexey Statsenko. 
 
 #### Media
 1. All the photos used for the website were taken by Alexey Statsenko, all the rights belong to STOdrones.
@@ -288,9 +289,9 @@ Content is mainly written by Alexey Statsenko.
 
 1. Idea about the central part of the website 1/3 & 2/3 taken from the "First CV" tutorial of the course. 
 2. Idea about the hero image + animation, plus some code is from the Love Running tutorial of this course. 
-3. Navbar code is taken from Bootstrap.
+3. Navbar code is taken from Bootstrap. 
 4. Idea for footer split into three parts, and social links animation idea + partly code taken from  "First CV" tutorial of the course. 
-5. Text about the historical/tourist landmarks are partly taken from websites of the respective points of interest. 
+5. Text about the historical/tourist landmarks are partly taken from websites of the respective points of interest (see point 8, section above). 
 6. Contact form code is taken from w3schools website. 
 
 Special thanks to: 
