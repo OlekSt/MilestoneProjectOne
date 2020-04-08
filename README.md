@@ -133,13 +133,16 @@ The responsivenes of the website for various screen sizes was tested via this we
 
 [Am I responsive](http://ami.responsivedesign.is/). Though it tests for various Apple devices, it gave a solid idea whether the website is responsive. 
 
-1. Desktop
+1. Laptop
 Google Chrome, Internet Edge; all pages, links on those pages, and footer icon links perform well on all viewport sizes. Developer tools were also used on all browsers for the various viewport sizes.
 
 2. Mobile
 Used my Samsung A7 to test; all pages, links, icons performed well on all devices using  Chrome.
 
-## Testing client stories from UX section of README.md 
+3. Desktop & Pad
+Checked via [Am I responsive](http://ami.responsivedesign.is/#)where you can scroll and click buttons & links on all the screens. 
+
+## Testing client stories 
 
 1. As a potential client I can immediately see the appealing view of the Charles bridge, so i can immeditely fell how aerial images can impress people by being taken from very unusual viewpoints. 
     * The landing page immediately provides the client with an appealing view, and all the necessery menu items to navigate, as well as About and Services section.
@@ -153,7 +156,6 @@ Used my Samsung A7 to test; all pages, links, icons performed well on all device
     * Call to Action buttons are placed in a logical sequence: Under Services to take visitors to Projects and Gallery; between Projects and Gallery to take people to Address and Contact; under the map in Address area to take visitors back to Projects and Gallery. 
     * The Navigation bar is in a clear font at the bottom right corner of the hero image, on dark background.  It converts into a vertical menu in mobile view, placed on dark background of the right side of the hero image, so it is very intuitive to use. The icons are responsive, changing size when mouse moves over, so a visitor know right away, which link is active.
     * According to convention, the logo links back to the Home Page. 
- 
 
 4. As a potential client, I have easy access to the company's photo, so i can get a good idea of quality and level of expereince. 
     * There is easy and intuitive navigation that leads to Projects and Gallery from the Home page. 
@@ -176,11 +178,65 @@ Used my Samsung A7 to test; all pages, links, icons performed well on all device
     * Minimum number of other items were added to the page, in order to keep main focus on the photos, and supporting texts. 
  
 8. As a potential client and a business with time constraints, I can use the contact form quickly and intuitively to contact the company. 
-    * It is easy to navigate to the Contact Form via the navigation menu. 
+    * It is easy to navigate to the Contact Form via the navigation menu or call-to-action button placed between Projects & Gallery.
     * There are only 4 required fields on the contact form, and so the User Experience is fast and does not require too much typing.
     * The form follows an intuitive and conventional layout (Name, Surname, email address, subject and message). 
 
 
+## Manual (logical) testing of all elements and functionality on every page
+
+All the pages were tested on an Android phone, a laptop, because i don't have any other devices available, i tested Desktop and Ipad via the [Am I responsive](http://ami.responsivedesign.is/#)where you can scroll and click buttons & links on all the screens. I also checked all the pages on the developer tools. 
+### Home Page 
+
+1. Navigation Menu
+* I opened the Home page. Checked how the navigation menu is placed, and how well visible it is. It took me some adjusting for best location that works for all sizes. It is still can be fine-tuned, as it is not perfect. Especially in mobile view; home icon is not placed as it is intended, i will need to work on fixing that. The placement and visibility needs some additional work for improvement. 
+* Checked if all the menu icons are responsive on all the pages. And if each menu items higlights correctly according to which page is active. 
+* Clicked on all the Menu items to check if it switches between pages, and how hero image animation works on all of them. I had a problem with size of the hero image for desktops, it was too small. I have added a bigger image for screens over 1300px.
+* Logo was clicked from all the three pages and as expected it took the client to the Home Page. 
+
+
+2. About and Services section
+* Checked how sections, images and texts are responsive on various sizes of screens, if they re-arrange correclty for Pad and mobile view.
+* Clciked the link about the quadrocopter to check if it takes to the correct DJI website.
+* Clicked the call-to-action button to check if it takes to the correct page.  
+
+3. Footer
+* Checked how  the footer re-arranges according to change of screen size, and if it looks as planned on all screen sizes. 
+* Checked if license link is responsive and changes font & background when a mouse moves over it. Clicked the link to show license if it opens the correct document. 
+* Moved the mouse over the socila media icons to check if they react as planned, byt changing color and background. Clicked on each icon to check if the lead to correct pages. 
+
+### Projects Page 
+
+1. Navigation Menu
+* Tested the same way as described above (Home page).
+* Code was checked in ChromeDevtools too. 
+2. Projects' images and texts 
+* Checked proper visibility on all devices, plus how they re-arrange according to screen size change, and whether they do as planned. 
+* *Noted possible improvements for later: For Pad view add a third image per Project to eliminate empty space on the left side from the description text. The images shoul be visible only on Pad, not on mobile or laptop screens.* 
+3. Gallery images  
+* Images were checked for proper placement, creating tile effect, and if they re-arrange correctly for smaller sizes (3 images per line for Pad, 2 per line for mobile). 
+* *Noted possible improvements for later: in Pad view there is a single image on the last line above the footer. Make it invisible for Pad view to eliminate empty spaces.*
+    *For both Projects and Gallery section to resize all the images to make them load faster.*
+4. Call to Action Button 
+* The button was clicked to check if it takes to the Address-Contact page. 
+6. Footer 
+* Checked as described above (Home page). 
+
+### Address - Contact Form 
+
+1. Navigation Menu
+* Tested the same way as described above (Home page).
+* Code was checked in ChromeDevtools too. 
+2. Map
+* Checked if the map opens the Google maps on click. 
+3. Call to Action button
+* Clciked to check if it takes to the Projects page.
+4. Contact Form 
+* Form was checked to see if it would allow user to submit without all mandatory fields filled in. It requires to fill all the fields.
+* Checked if it requires to fill in correct format of email. It does require to enter "@", but it does not fully check the email format, and let's send an email like "alex.st@gmai" or "alex.st@gmail.co". I have decided to use only html for email verification, but have not found a method to fully prove it. As i don't have any BackEnd connectivity, it is not essential at the moment. For proper functioning JavaScript would be used. 
+* The screen size was changed and form was viewed on all devices to ensure that it looks clear and smooth regardless of screen size. 
+5. Footer 
+* Checked as described above (Home page). 
 
 
 ## Deployment
