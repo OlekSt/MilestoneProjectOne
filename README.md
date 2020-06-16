@@ -3,7 +3,7 @@
          
 ## Website for a company providing aerial photo/video services
 
-[Github Pages link](https://olekst.github.io/User-Centric-Frontend-Milestone-Project-1/)
+[Github Pages link](https://olekst.github.io/STOdrones---aerial-photography/)
 
 The project is a website for a company providing services in aerial photography & filming on the territory of the Czech Republic. 
 The website provides info about the company, equipment it uses for its projects, a list of services it provides, also showcases a number of projects
@@ -33,7 +33,7 @@ The customer goals of this website are:
 ## Wireframes
 
 Balsamiq wireframes software was used to create wireframes for this project.
-PDF and BMPR files are stored in [the wireframes folder](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1/tree/master/assets/wireframes).
+PDF and BMPR files are stored in [the wireframes folder](https://github.com/OlekSt/STOdrones---aerial-photography/tree/master/assets/wireframes).
 
 <table>
     <tr>
@@ -255,7 +255,7 @@ All the pages were tested on an Android phone, a laptop, because i don't have an
 
 ## Deployment
 
-[GitHub Pages Website](https://olekst.github.io/User-Centric-Frontend-Milestone-Project-1/)
+[GitHub Pages Website](https://olekst.github.io/STOdrones---aerial-photography/)
 
 Gitpod was used to code this project. It was then committed and pushed to Github using the command line and deployed on GitHub pages from the repository.
 
@@ -265,7 +265,7 @@ In order to deploy the site, firstly I logged into GitHub Pages. Following this 
 
 In order to clone this project, it is necessary to follow these steps:
 
-1. Go to the [Project Repository](https://github.com/OlekSt/User-Centric-Frontend-Milestone-Project-1).
+1. Go to the [Project Repository](https://olekst.github.io/STOdrones---aerial-photography/).
 2. Click 'Clone or Download'.
 3. In the Clone with HTTPs section, click he clone URL for the repository.
 4. Open the Terminal and change the working directory to the location where you want the cloned directory to be made.
